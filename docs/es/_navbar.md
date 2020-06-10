@@ -1,0 +1,7 @@
+- Langue
+  - [:fr: Français](/)
+  - [:uk: English](/en/)
+  - [:de: Deutsch](/de/)
+  - [:es: Spanish](/es/)
+  - [:it: Italian](/es/)
+  - [:ru: Russian](/ru/)

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Loxea</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css" title="dark" disabled>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/buble.css" title="buble" disabled>
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      alias: {
+        '/.*/_navbar.md': '/_navbar.md',
+        '/es/(.*)/_navbar.md': '/es/_navbar.md'
+      },
+      coverpage: true,
+      auto2top: true,
+      relativePath: true,
+      fallbackLanguages: ['en', 'de', 'it', 'es','ru'],
+      notFoundPage: {
+        '/': '_404.md',
+        '/es': 'es/_404.md',
+      },
+      loadSidebar: {
+        '/': '_sidebar.md',
+        '/es/': 'es/_sidebar.md',
+      },
+      themeColor: '#d70826',
+      basePath: '/docs/',
+      loadSidebar: true,
+      loadNavbar: true,
+      mergeNavbar: true,
+      name: 'Loxea Avis Fleet',
+      search: {
+        noData: {
+          '/#/': 'Aucun resultat !',
+          '/en/': '',
+          '/de/': '',
+          '/it/': '',
+          '/es/': 'Espagnol resultat',
+          '/ru/': ''
+        },
+        paths: [],
+        placeholder: {
+          '/#/': 'Rechercher',
+          '/en/': '',
+          '/de/': '',
+          '/it/': '',
+          '/es/': 'Espagnol search',
+          '/ru/': ''
+        }
+      },
+      repo: 'docsifyjs/docsify'
+    }
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+</body>
+</html>
+
