@@ -10,6 +10,6 @@
 - Editée par Africa-Connect
 
 [Lien Platforme](http://public.traqco.net/)
-[Lire documentation](#presentation)
+[Lire documentation](#présentation)
 
 ![bg](_image/man.jpg)
