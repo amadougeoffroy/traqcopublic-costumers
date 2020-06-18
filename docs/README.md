@@ -2,7 +2,7 @@
 
 >## Présentation de Africa Connect
 
-<img src="docs/_image/AFRICA-CONNECT.png" alt="logo" width="150">
+<img src="https://zoneemploi.com/wp-content/uploads/2019/11/AFRICA-CONNECT.png" alt="logo" width="150">
 
 [Africa Connect](http://www.africa-connect.net/) est une société de services spécialisée dans la Traçabilité des biens et des personnes, nous développons des solutions spécifiques pour le compte de nos clients leaders dans les domaines de la logistique, du génie civil et dans l’industrie. Notre mission est d’allier créativité, technologie et service client avec des solutions sur mesure, facteurs clés du succès des projets de nos clients.
 
@@ -19,7 +19,7 @@ Notre solution de gestion de parc vous permet de réduire le TCO (Total Cost of 
 
 >## TRAQCO Public 
 
-<img src="docs/_image/logotraqco.png" alt="logo" width="150">
+<img src="https://lh3.googleusercontent.com/proxy/76Hdpd1vzEkEfQd-l37tAOK5RDxtphRN9M5WCPBYtXEGHpurOXqPqgZ-qsZUcn0KVyCiCY7xTWc9yQ9DXE3IK1YZDSSuxQCDhK0p9MdYfPtanKC6VHROr_GqNwfWdUGxpCI" alt="logo" width="150">
 
 [TRAQCO Public](http://public.traqco.net/) est notre logiciel en ligne, notre système de gestion de parc qui vous permet de suivre en direct l’état et l’activité de vos véhicules et de votre flotte automobile.
 Il génère des rapports d’analyse complets et synthétiques. À tout moment, vous connaissez précisément :
