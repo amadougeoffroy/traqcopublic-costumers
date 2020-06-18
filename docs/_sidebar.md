@@ -1,6 +1,6 @@
-- Introduction
+- Interface
 
-  - [Introduction](intro.md)
-  - [Installation](install.md)
-  - [Configuration](config.md)
-  - [Premiere utilisation](first-use.md)
+  - [Accès à la plateforme](acces.md)
+  - [Ecran d'acceuil](accueil.md)
+    - [Configuration](config.md)
+    - [Premiere utilisation](first-use.md)
