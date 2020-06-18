@@ -1,6 +1,7 @@
-![logo](_image/loxea_avis_fleet_logo.png)
 
-# LOXEA Avis Fleet <small>1.0.0</small>
+<img src="docs/_image/logotraqco.png" alt="logo" width="400">
+
+# TRAQCO PUBLIC <small>1.0.0</small>
 
 > Documentation originale et complete.
 
@@ -8,7 +9,7 @@
 - Pour une prise en main rapide et aisée
 - Editée par Africa-Connect
 
-[Loxea](http://www.loxea.com/)
-[Commencer](#presentation)
+[Lien Platforme](http://public.traqco.net/)
+[Lire documentation](#presentation)
 
-![](_image/man.jpg)
+![bg](_image/man.jpg)
