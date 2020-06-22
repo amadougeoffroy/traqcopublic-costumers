@@ -19,7 +19,7 @@ Notre solution de gestion de parc vous permet de réduire le TCO (Total Cost of 
 
 >## TRAQCO Public 
 
-<img src="https://lh3.googleusercontent.com/proxy/76Hdpd1vzEkEfQd-l37tAOK5RDxtphRN9M5WCPBYtXEGHpurOXqPqgZ-qsZUcn0KVyCiCY7xTWc9yQ9DXE3IK1YZDSSuxQCDhK0p9MdYfPtanKC6VHROr_GqNwfWdUGxpCI" alt="logo" width="150">
+<img src="http://public.traqco.net/assets/logo.php?id=0&type=logo-main&t=f1458158961" alt="logo" width="170">
 
 [TRAQCO Public](http://public.traqco.net/) est notre logiciel en ligne, notre système de gestion de parc qui vous permet de suivre en direct l’état et l’activité de vos véhicules et de votre flotte automobile.
 Il génère des rapports d’analyse complets et synthétiques. À tout moment, vous connaissez précisément :
