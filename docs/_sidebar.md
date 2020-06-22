@@ -1,8 +1,8 @@
 - Introduction 
 
-  - [Prérequis](introduction.md)
-  - [Termonologie](introduction.md?id=initialize)
-  - [Acces plateforme](introduction.md?id=initialize)
+  - [Prérequis](introduction.md?id=prérequis)
+  - [Terminologie](introduction.md?id=terminologie)
+  - [Acces plateforme](introduction.md?id=accès-à-la-plateforme)
 
 - Espace de travail
 - [Vue d'ensemble](config.md)
