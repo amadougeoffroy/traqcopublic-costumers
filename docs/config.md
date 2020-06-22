@@ -1,3 +1,0 @@
-# Configuration
-
-> An awesome Configuration.

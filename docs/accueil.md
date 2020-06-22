@@ -1,3 +1,0 @@
-# Installation
-
-> An awesome Installation.
