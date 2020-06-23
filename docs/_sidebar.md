@@ -14,11 +14,11 @@
 
 - Mon compte utilisateur
 
-  - [Souscription](espace-de-travail.md?id=initialize)
-  - [Mon icone](espace-de-travail.md?id=initialize)
-  - [Changer de mot de passe](espace-de-travail.md?id=initialize)
-  - [Support](espace-de-travail.md?id=initialize)
-  - [Se déconnecter](espace-de-travail.md?id=initialize)
+  - [Souscription](compte-utilisateurs.md?id=souscription)
+  - [Mon icone](compte-utilisateurs.md?id=mes-icônes)
+  - [Changer de mot de passe](compte-utilisateurs.md?id=changer-le-mot-de-passe)
+  - [Support](compte-utilisateurs.md?id=support)
+  - [Se déconnecter](compte-utilisateurs.md?id=se-déconnecter)
 
 - Gestion des traceurs
 
