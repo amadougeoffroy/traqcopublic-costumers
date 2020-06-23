@@ -6,11 +6,11 @@
 
 - Espace de travail
   
-  - [Accueil](espace-de-travail.md?id=initialize)
-  - [Menu](espace-de-travail.md?id=initialize)
-  - [Panneau de navigation](espace-de-travail.md?id=initialize)
-  - [Panneau Détails de l'objet](espace-de-travail.md?id=initialize)
-  - [Contrôle de la carte](espace-de-travail.md?id=initialize)
+  - [Accueil](espace-de-travail.md?id=ecran-d39accueil)
+  - [Menu](espace-de-travail.md?id=menu)
+  - [Panneau de navigation](espace-de-travail.md?id=panneau-de-navigation)
+  - [Panneau Détails de l'objet](espace-de-travail.md?id=panneau-détails-de-l39objet)
+  - [Contrôle de la carte](espace-de-travail.md?id=contrôle-de-la-carte)
 
 - Mon compte utilisateur
 
