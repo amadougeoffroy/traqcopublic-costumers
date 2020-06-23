@@ -5,43 +5,127 @@
   - [Acces plateforme](introduction.md?id=accès-à-la-plateforme)
 
 - Espace de travail
-- [Vue d'ensemble](config.md)
   
-  - [- Menu](espace-de-travail.md?id=initialize)
-  - [- Carte d'affichage](espace-de-travail.md?id=initialize)
-  - [- Compte utilisateur](espace-de-travail.md?id=initialize)
-  - [- Panneau d'outils d'interraction avec la carte](espace-de-travail.md?id=initialize)
-  - [- Panneau de véhicules](espace-de-travail.md?id=initialize)
-  - [- Panneau de suivi (véhicules sélectionnés)](espace-de-travail.md?id=initialize)
-  - [- Panneau de suivi position (trajets sélectionnés)](espace-de-travail.md?id=initialize)
-  - [- Panneau statut ](espace-de-travail.md?id=initialize)
+  - [Accueil](espace-de-travail.md?id=initialize)
+  - [Menu](espace-de-travail.md?id=initialize)
+  - [Panneau de navigation](espace-de-travail.md?id=initialize)
+  - [Panneau Détails de l'objet](espace-de-travail.md?id=initialize)
+  - [Contrôle de la carte](espace-de-travail.md?id=initialize)
 
-- Les points d'intérêts
+- Mon compte utilisateur
 
-  - [- Installation](points-interets.md)
-  - [- Configuration](points-interets.md?id=initialize)
-  - [- Usage](points-interets.md?id=initialize)
-    - [Créer un POI](points-interets.md?id=initialize)
-    - [Créer catégorie de POI](points-interets.md?id=initialize)
-    - [Supprimer catégorie de POI](points-interets.md?id=initialize)
-    - [Fonctionnalités supplémentaires des POI](points-interets.md?id=initialize)
-    - [Ajout de champs personnalisés à un POI](points-interets.md?id=initialize)
-    - [Géocodage inversé avec POI](points-interets.md?id=initialize)
-    - [Importation / Exportation de POI](points-interets.md?id=initialize)
-  - [- Time on Site](points-interets.md?id=initialize)
-    - [Configuration générique](points-interets.md?id=initialize)
-    - [Pour rapport TS1006/1009](points-interets.md?id=initialize)
-    - [Pour rapport TS1010](points-interets.md?id=initialize)
-    - [Créer une instance du rapport](points-interets.md?id=initialize)
+  - [Souscription](espace-de-travail.md?id=initialize)
+  - [Mon icone](espace-de-travail.md?id=initialize)
+  - [Changer de mot de passe](espace-de-travail.md?id=initialize)
+  - [Support](espace-de-travail.md?id=initialize)
+  - [Se déconnecter](espace-de-travail.md?id=initialize)
 
-- Gestion des géo-clôtures
+- Gestion des traceurs
 
-  - [Création de géofences](gestion-geofences.md?id=initialize)
-  - [Modification d'une géo-clôture](gestion-geofences.md?id=initialize)
-  - [Modification groupée de géo-clôtures](gestion-geofences.md?id=initialize)
-  - [Règles d'alertes de géo-clôtures](gestion-geofences.md?id=initialize)
-  - [Alertes e-mail et SMS](gestion-geofences.md?id=initialize)
-  - [Configuration des notifications mail](gestion-geofences.md?id=initialize)
-  - [Configuration des notifications SMS](gestion-geofences.md?id=initialize)
-  - [Géofences de routes](gestion-geofences.md?id=initialize)
+  - [Création/Activation manuelle](espace-de-travail.md?id=initialize)
+  - [Création/Activation automatique](espace-de-travail.md?id=initialize)
+  - [Gestion sur mobile](espace-de-travail.md?id=initialize)
+  - [Paramétrage des traceurs](espace-de-travail.md?id=initialize)
 
+- Gestion des capteurs
+
+  - [Ajouter un capteur](espace-de-travail.md?id=initialize)
+  - [ACC ON / OFF](espace-de-travail.md?id=initialize)
+  - [Battérie](espace-de-travail.md?id=initialize)
+  - [Ouverture / fermeture des portes](espace-de-travail.md?id=initialize)
+  - [Marche / arrêt du moteur](espace-de-travail.md?id=initialize)
+  - [Heures moteur](espace-de-travail.md?id=initialize)
+  - [Réservoir d'essence](espace-de-travail.md?id=initialize)
+  - [Réservoir de carburant avec étalonnage](espace-de-travail.md?id=initialize)
+  - [GSM](espace-de-travail.md?id=initialize)
+  - [Accélération brutale et freinage brutal](espace-de-travail.md?id=initialize)
+  - [Allumage ON / OFF](espace-de-travail.md?id=initialize)
+  - [Odomètre (connecté et virtuel)](espace-de-travail.md?id=initialize)
+  - [Satellites](espace-de-travail.md?id=initialize)
+  - [Tachymètre / RPM ou température](espace-de-travail.md?id=initialize)
+
+- Gestion des appareils
+
+  - [Fenêtre contextuelle](espace-de-travail.md?id=initialize)
+  - [Outils rapides](espace-de-travail.md?id=initialize)
+  - [Modifier - Principal](espace-de-travail.md?id=initialize)
+  - [Modifier - Icônes](espace-de-travail.md?id=initialize)
+  - [Modifier - Avancé](espace-de-travail.md?id=initialize)
+  - [Édition - Capteurs](espace-de-travail.md?id=initialize)
+  - [Modifier - Services](espace-de-travail.md?id=initialize)
+  - [Modifier - Précision](espace-de-travail.md?id=initialize)
+  - [Édition - Queue](espace-de-travail.md?id=initialize)
+  
+  
+- Gestion des outils
+
+  - [Outils: vue d'ensemble](gestion-geofences.md?id=initialize)
+  - [Outils: alertes](gestion-geofences.md?id=initialize)
+  - [Outils: Geofencing](gestion-geofences.md?id=initialize)
+  - [Outils: Rapports](gestion-geofences.md?id=initialize)
+  - [Outils: envoyer une commande](gestion-geofences.md?id=initialize)
+  - [Outils: Autre](gestion-geofences.md?id=initialize)
+  - [Outils: appareil photo](gestion-geofences.md?id=initialize)
+  - [Outils: tâches](gestion-geofences.md?id=initialize)
+  - [Outils: Maintenance](gestion-geofences.md?id=initialize)
+  - [Outils: tableau de bord](gestion-geofences.md?id=initialize)
+  - [Outils: Partage](gestion-geofences.md?id=initialize)
+  
+- Objets graphiques
+
+  - [Ajouter ou supprimer](gestion-geofences.md?id=initialize)
+  - [Objet](gestion-geofences.md?id=initialize)
+  - [Capteurs](gestion-geofences.md?id=initialize)
+  - [Image de l'appareil](gestion-geofences.md?id=initialize)
+  - [Vue sur la rue](gestion-geofences.md?id=initialize)
+  - [Emplacement](gestion-geofences.md?id=initialize)
+  - [Appareil photo de l'appareil](gestion-geofences.md?id=initialize)
+  - [Carburant](gestion-geofences.md?id=initialize)
+
+- Edition de rapports
+
+  - [Événements](gestion-geofences.md?id=initialize)
+  - [Conduit et s'arrête](gestion-geofences.md?id=initialize)
+  - [Heures moteur quotidiennement](gestion-geofences.md?id=initialize)
+  - [Niveau de carburant](gestion-geofences.md?id=initialize)
+  - [Remplissages de carburant](gestion-geofences.md?id=initialize)
+  - [Informations générales](gestion-geofences.md?id=initialize)
+  - [Informations générales (fusionnées)](gestion-geofences.md?id=initialize)
+  - [Informations générales (fusionnées) personnalisées](gestion-geofences.md?id=initialize)
+  - [Informations générales (fusionnées) personnalisées 2](gestion-geofences.md?id=initialize)
+  - [Informations générales (fusionnées) personnalisées 3](gestion-geofences.md?id=initialize)
+  - [Entrée / sortie Geofence](gestion-geofences.md?id=initialize)
+  - [Entrée / sortie Geofence (allumage ON / OFF)](gestion-geofences.md?id=initialize)
+  - [Geofence (Touchez tout)](gestion-geofences.md?id=initialize)
+  - [Allumage ON / OFF](gestion-geofences.md?id=initialize)
+  - [Survitesse](gestion-geofences.md?id=initialize)
+  - [Survitesse / Geofences](gestion-geofences.md?id=initialize)
+  - [RAG (Performance du conducteur)](gestion-geofences.md?id=initialize)
+  - [Température](gestion-geofences.md?id=initialize)
+  - [Feuille de voyage](gestion-geofences.md?id=initialize)
+  - [Feuille de voyage personnalisée](gestion-geofences.md?id=initialize)
+  - [Itinéraires](gestion-geofences.md?id=initialize)
+  - [Commandes envoyées](gestion-geofences.md?id=initialize)
+  - [Heures de travail quotidiennes](gestion-geofences.md?id=initialize)
+
+- Gestion des extensions
+
+  - [Activation/Désactivation plugins](gestion-geofences.md?id=initialize)
+  - [Liste d'objets](gestion-geofences.md?id=initialize)
+  - [Disques professionnels / privés](gestion-geofences.md?id=initialize)
+  - [Couleur de l'itinéraire](gestion-geofences.md?id=initialize)
+  - [Animation de déplacement de périphérique](gestion-geofences.md?id=initialize)
+  - [Widget de l'appareil sur la distance totale](gestion-geofences.md?id=initialize)
+  - [Le widget de l'appareil affiche l'adresse complète](gestion-geofences.md?id=initialize)
+  - [Notification de partage d'alertes](gestion-geofences.md?id=initialize)
+  - [Verrouillage](gestion-geofences.md?id=initialize)
+
+- Panneau d'administration
+
+  - [Vue d'ensenble](gestion-geofences.md?id=initialize)
+  - [Configuration](gestion-geofences.md?id=initialize)
+  
+
+- Paramètres généraux
+
+  - [Paramètres disponibles](gestion-geofences.md?id=initialize)

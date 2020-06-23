@@ -49,14 +49,11 @@ Vous pouvez bien sûr suivre n'importe quoi, mais pour les besoins de ce manuel,
 Pour avoir accès à la plateforme, veuillez saisir l'un des liens suivants dans votre navigateur. Renseignez vos paramètres de connexion (nom d'utilisateur et votre mot de passe) fournis par Africa Connect afin d'accéder à la page d'accueil.
 
 <div class="row" style="text-align:center">
-  <div class="col-md">
 
-  ***TROQCO Pro :*** http://pro.traqco.net/GpsgateServer/
-<img src="docs/_image/proconnect.png" alt="logo" width="450">
-  </div>
   <div class="col-md">
   
   ***TROQCO Public :*** http://public.traqco.net/
+  
 <img src="docs/_image/publiconnect.png" alt="logo" width="450">
   </div>
 </div>
