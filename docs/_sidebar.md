@@ -22,10 +22,23 @@
 
 - Gestion des traceurs
 
-  - [Création/Activation manuelle](espace-de-travail.md?id=initialize)
-  - [Création/Activation automatique](espace-de-travail.md?id=initialize)
-  - [Gestion sur mobile](espace-de-travail.md?id=initialize)
-  - [Paramétrage des traceurs](espace-de-travail.md?id=initialize)
+  - [Création/Activation manuelle](gestion-manuelle-traceurs.md)
+    - [- Création d'un appareil](gestion-manuelle-traceurs.md?id=création-d39un-appareil)
+    - [- Configuration d'un appareil](gestion-manuelle-traceurs.md?id=configuration-d39un-appareil)
+  - [Création/Activation automatique](gestion-auto-traceurs.md)
+    - [Création d'un appareil](gestion-auto-traceurs.md?id=création-d39un-appareil)
+    - [Activation de l'appareil GPS](gestion-auto-traceurs.md?id=activation-de-l39appareil-gps)
+    - [Configuration APN](gestion-auto-traceurs.md?id=configuration-apn)
+  - [Gestion sur mobile](gestion-sur-mobile.md)
+  - [Paramétrage des traceurs](parametrage-des-traceurs.md)
+    - [Fenêtre de configuration](parametrage-des-traceurs.md?id=fenêtre-de-configuration)
+    - [Principale](parametrage-des-traceurs.md?id=principale)
+    - [Groupes d'objets](parametrage-des-traceurs.md?id=groupes-d39objets)
+    - [Conducteurs](parametrage-des-traceurs.md?id=conducteurs)
+    - [Événements](parametrage-des-traceurs.md?id=Événements)
+    - [Passerelle SMS](parametrage-des-traceurs.md?id=passerelle-sms)
+    - [Modèles SMS](parametrage-des-traceurs.md?id=modèles-sms)
+    - [Modèles GPRS](parametrage-des-traceurs.md?id=modèles-gprs)
 
 - Gestion des capteurs
 
