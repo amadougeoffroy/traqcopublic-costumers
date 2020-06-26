@@ -124,15 +124,15 @@
 
 - Gestion des extensions
 
-  - [Activation/Désactivation plugins](gestion-des-extensions.md?id=initialize)
-  - [Liste d'objets](gestion-des-extensions.md?id=initialize)
-  - [Disques professionnels / privés](gestion-des-extensions.md?id=initialize)
-  - [Couleur de l'itinéraire](gestion-des-extensions.md?id=initialize)
-  - [Animation de déplacement de périphérique](gestion-des-extensions.md?id=initialize)
-  - [Widget de l'appareil sur la distance totale](gestion-des-extensions.md?id=initialize)
-  - [Le widget de l'appareil affiche l'adresse complète](gestion-des-extensions.md?id=initialize)
-  - [Notification de partage d'alertes](gestion-des-extensions.md?id=initialize)
-  - [Verrouillage](gestion-des-extensions.md?id=initialize)
+  - [Activation/Désactivation plugins](gestion-des-extensions.md?id=activationdésactivation)
+  - [Liste d'objets](gestion-des-extensions.md?id=liste-d39objets)
+  - [Disques professionnels / privés](gestion-des-extensions.md?id=disques-professionnels-privés)
+  - [Couleur de l'itinéraire](gestion-des-extensions.md?id=couleur-de-l39itinéraire)
+  - [Animation de déplacement de périphérique](gestion-des-extensions.md?id=animation-de-déplacement-de-périphérique)
+  - [Widget de l'appareil sur la distance totale](gestion-des-extensions.md?id=widget-de-l39appareil-sur-la-distance-totale)
+  - [Le widget de l'appareil affiche l'adresse complète](gestion-des-extensions.md?id=le-widget-de-l39appareil-affiche-l39adresse-complète)
+  - [Notification de partage d'alertes](gestion-des-extensions.md?id=notification-de-partage-d39alertes)
+  - [Verrouillage](gestion-des-extensions.md?id=verrouillage)
 
 - Panneau d'administration
 
