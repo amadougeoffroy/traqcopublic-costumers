@@ -72,17 +72,17 @@
   
 - Gestion des outils
 
-  - [Outils: vue d'ensemble](gestion-des-outils.md?id=initialize)
-  - [Outils: alertes](gestion-des-outils.md?id=initialize)
-  - [Outils: Geofencing](gestion-des-outils.md?id=initialize)
-  - [Outils: Rapports](gestion-des-outils.md?id=initialize)
-  - [Outils: envoyer une commande](gestion-des-outils.md?id=initialize)
-  - [Outils: Autre](gestion-des-outils.md?id=initialize)
-  - [Outils: appareil photo](gestion-des-outils.md?id=initialize)
-  - [Outils: tâches](gestion-des-outils.md?id=initialize)
-  - [Outils: Maintenance](gestion-des-outils.md?id=initialize)
-  - [Outils: tableau de bord](gestion-des-outils.md?id=initialize)
-  - [Outils: Partage](gestion-des-outils.md?id=initialize)
+  - [Outils: vue d'ensemble](gestion-des-outils.md?id=outils-vue-d39ensemble)
+  - [Outils: alertes](gestion-des-outils.md?id=outils-alertes)
+  - [Outils: Geofencing](gestion-des-outils.md?id=outils-geofencing)
+  - [Outils: Rapports](gestion-des-outils.md?id=outils-rapports)
+  - [Outils: envoyer une commande](gestion-des-outils.md?id=outils-envoyer-une-commande)
+  - [Outils: Autre](gestion-des-outils.md?id=outils-autre)
+  - [Outils: appareil photo](gestion-des-outils.md?id=outils-appareil-photo)
+  - [Outils: tâches](gestion-des-outils.md?id=outils-tâches)
+  - [Outils: Maintenance](gestion-des-outils.md?id=outils-maintenance)
+  - [Outils: tableau de bord](gestion-des-outils.md?id=outils-tableau-de-bord)
+  - [Outils: Partage](gestion-des-outils.md?id=outils-partage)
   
 - Objets graphiques
 
