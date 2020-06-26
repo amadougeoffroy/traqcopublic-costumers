@@ -86,14 +86,15 @@
   
 - Objets graphiques
 
-  - [Ajouter ou supprimer](objets-graphiques.md?id=initialize)
-  - [Objet](objets-graphiques.md?id=initialize)
-  - [Capteurs](objets-graphiques.md?id=initialize)
-  - [Image de l'appareil](objets-graphiques.md?id=initialize)
-  - [Vue sur la rue](objets-graphiques.md?id=initialize)
-  - [Emplacement](objets-graphiques.md?id=initialize)
-  - [Appareil photo de l'appareil](objets-graphiques.md?id=initialize)
-  - [Carburant](objets-graphiques.md?id=initialize)
+  - [Ajouter ou supprimer](objets-graphiques.md?id=ajoutsuppression)
+  - [Objet](objets-graphiques.md?id=objet)
+  - [Capteurs](objets-graphiques.md?id=capteurs)
+  - [Image de l'appareil](objets-graphiques.md?id=image-de-l39appareil)
+  - [Prestation de services](objets-graphiques.md?id=prestations-de-service)
+  - [Vue sur la rue](objets-graphiques.md?id=vue-sur-la-rue)
+  - [Emplacement](objets-graphiques.md?id=emplacement)
+  - [Appareil photo de l'appareil](objets-graphiques.md?id=appareil-photo-de-l39appareil)
+  - [Carburant](objets-graphiques.md?id=carburant)
 
 - Edition de rapports
 

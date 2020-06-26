@@ -379,7 +379,7 @@ Sous les appareils, vous avez la possibilité de saisir un ou plusieurs e-mails 
 
 Pour afficher, modifier et supprimer les liens de partage créés, accédez à "Partages" en haut du menu.
 
-<img src="docs/_image/sharing.png" alt="sharing" width="580px">..
+<img src="docs/_image/sharing.png" alt="sharing" width="580px">
 
 
 
