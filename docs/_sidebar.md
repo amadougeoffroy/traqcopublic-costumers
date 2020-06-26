@@ -136,10 +136,10 @@
 
 - Panneau d'administration
 
-  - [Vue d'ensenble](panneau-administration.md?id=initialize)
-  - [Configuration](panneau-administration.md?id=initialize)
+  - [Vue d'ensenble](panneau-administration.md?id=vue-d39ensemble)
+  - [Configuration](panneau-administration.md?id=configuration)
   
 
 - Paramètres généraux
 
-  - [Paramètres disponibles](parametres-generaux.md?id=initialize)
+  - [Paramètres disponibles](parametres-generaux.md?id=paramètres-disponibles)
