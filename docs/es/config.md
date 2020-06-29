@@ -1,3 +1,0 @@
-# Configuration
-
-> An espagnol Configuration.

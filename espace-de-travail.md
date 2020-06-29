@@ -2,7 +2,7 @@
 
 Une fois connecté, vous serez redirigé vers la page principale de la plateforme. Cette page permet d'accéder aux fonctionnalités et paramètres de suivi les plus courants, de surveiller la position de l'objet sur la carte et d'obtenir des informations détaillées telles que la vitesse, l'adresse, les coordonnées, l'historique, etc.
 
-<img src="docs/_image/dashbord.png" alt="dashbord" width="100%">
+<img src="_image/dashbord.png" alt="dashbord" width="100%">
 
 
 1.  ***Menu*** 
@@ -20,7 +20,7 @@ Le menu est utilisé pour accéder rapidement aux outils et paramètres fréquem
    </div>
    <div class="col-md">
 
-<img src="docs/_image/menudash.png" alt="dashbord" width="100%">
+<img src="_image/menudash.png" alt="dashbord" width="100%">
 
 1.  ***Panneau d'administration*** 
 2.  ***Outils*** 
@@ -37,7 +37,7 @@ Le menu est utilisé pour accéder rapidement aux outils et paramètres fréquem
 <div class="row" style="text-align:left">
   <div class="col-md">
 
-<img src="docs/_image/pannavigate.png" alt="dashbord" width="380px">
+<img src="_image/pannavigate.png" alt="dashbord" width="380px">
 
 1. ***Onglet Objets*** - afficher et gérer tous les appareils
 2. ***Onglet Événements*** - l'historique des événements et les alertes / notifications peuvent être consultés 
@@ -68,7 +68,7 @@ En afficher moins de popup, vous verrez l'adresse, la durée d'arrêt, les capte
  </div>
    <div class="col-md-7">
 
-<img src="docs/_image/detailspanobj.png" alt="details" width="380px">
+<img src="_image/detailspanobj.png" alt="details" width="380px">
 
  </div>
 </div>
@@ -91,7 +91,7 @@ En afficher moins de popup, vous verrez l'adresse, la durée d'arrêt, les capte
 </div>
    <div class="col-md">
 
-   <img src="docs/_image/detailspanobj.png" alt="dashbord" width="380px">
+   <img src="_image/detailspanobj.png" alt="dashbord" width="380px">
 
  </div>
 </div>

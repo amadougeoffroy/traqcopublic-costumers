@@ -2,7 +2,7 @@
 
 Il s'agit du panneau d'administration vu par l'utilisateur qui appartient au groupe d'utilisateurs Admin.
 
-<img src="docs/_image/paneauadmin.png" alt="paneauadmin" width="650px">
+<img src="_image/paneauadmin.png" alt="paneauadmin" width="650px">
 
 Le menu supérieur comprend un logo pour l'image de marque de l'entreprise.
 
@@ -26,17 +26,17 @@ Le pied de page de la page fournit des informations sur le nom de la plateforme,
  
 Le panneau d'administration pour l'utilisateur d'un groupe d'utilisateurs Manager se compose de différentes options de menu. L'utilisateur Manager a la possibilité d'avoir sa propre image de marque dans le menu " ***Logo*** ".
 
-<img src="docs/_image/paneauadmin2.png" alt="paneauadmin2" width="650px">
+<img src="_image/paneauadmin2.png" alt="paneauadmin2" width="650px">
 
 >## Configuration
 
 Panneau d'administration - Le programme d'installation dispose du menu de configuration de la messagerie, des paramètres du serveur, etc.
 
-<img src="docs/_image/paneauadmin3.png" alt="paneauadmin3" width="180px">
+<img src="_image/paneauadmin3.png" alt="paneauadmin3" width="180px">
 
 >#### Email
 
-<img src="docs/_image/paneauadminemail.png" alt="paneauadminemail" width="650px">
+<img src="_image/paneauadminemail.png" alt="paneauadminemail" width="650px">
 
 La configuration de la messagerie à l'aide du fournisseur par défaut nécessite de remplir uniquement ces champs:
 ***De nom***  - entrez un nom d'expéditeur
@@ -49,17 +49,17 @@ La configuration de la messagerie à l'aide du fournisseur par défaut nécessit
  
 Il existe au total 4 fournisseurs de messagerie parmi lesquels choisir - par défaut (serveur), Sendgrid, Postmark, Mailgun.
 
-<img src="docs/_image/paneauadminemail2.png" alt="paneauadminemail2" width="450px">
+<img src="_image/paneauadminemail2.png" alt="paneauadminemail2" width="450px">
 
 Sengrid nécessite une clé API pour fonctionner.
 
-<img src="docs/_image/paneauadminemail3.png" alt="paneauadminemail3" width="650px">
+<img src="_image/paneauadminemail3.png" alt="paneauadminemail3" width="650px">
 
 >#### Utilisateur
 
 Le panneau "Utilisateur" offre la possibilité d'appliquer des paramètres à tous les nouveaux utilisateurs.
 
-<img src="docs/_image/paneauadminuser.png" alt="paneauadminuser" width="650px">
+<img src="_image/paneauadminuser.png" alt="paneauadminuser" width="650px">
 
 ***Autoriser l'enregistrement*** - Si activé, les nouveaux utilisateurs peuvent s'inscrire à partir de l'écran de connexion de la plateforme.
 
@@ -77,11 +77,11 @@ Fuseau horaire par défaut - Ce paramètre applique un fuseau horaire à tous le
 Pour ajouter des plans payants aux utilisateurs, l'option "Activer les plans" doit être cochée.
 Dans le coin droit de l'onglet "Plans", sélectionnez le "+" pour créer un nouveau plan.
 
-<img src="docs/_image/paneauadminuser2.png" alt="paneauadminuser2" width="650px">
+<img src="_image/paneauadminuser2.png" alt="paneauadminuser2" width="650px">
 
 Une nouvelle fenêtre s'ouvrira, vous invitant à remplir le titre du plan, le prix, la limite d'objet et la durée. Dans l'onglet "Autorisations", vous pouvez sélectionner les fonctionnalités que l'utilisateur peut utiliser pour des plans spécifiques. La devise est utilisée en fonction des paramètres de l'onglet "Passerelle de facturation".
 
-<img src="docs/_image/paneauadminuser3.png" alt="paneauadminuser3" width="650px">
+<img src="_image/paneauadminuser3.png" alt="paneauadminuser3" width="650px">
 
 >#### Passerelle de facturation
 
@@ -92,11 +92,11 @@ Chaque passerelle de paiement nécessitera un jeu de clés et d'autres informati
 
 Il s'agit d'une liste de tous les ports pour chaque protocole intégré.
 
-<img src="docs/_image/portsuivi.png" alt="portsuivi" width="650px">
+<img src="_image/portsuivi.png" alt="portsuivi" width="650px">
 
 Dans cet onglet, vous pouvez activer / désactiver, modifier le numéro de port du protocole et ajouter des paramètres supplémentaires si nécessaire. Tous les paramètres peuvent être trouvés ici .
 
-<img src="docs/_image/portsuiviadd.png" alt="portsuiviadd" width="650px">
+<img src="_image/portsuiviadd.png" alt="portsuiviadd" width="650px">
 
 >#### Les langues
 
@@ -109,7 +109,7 @@ Le nom et la disponibilité de la langue peuvent également être modifiés à l
 Avec cet outil, vous pouvez bloquer une adresse IP pour éviter d'inonder le serveur de messages indésirables provenant d'un périphérique ou d'un serveur.
 Pour bloquer une adresse IP, sélectionnez l'icône "+" à droite de l'écran.
 
-<img src="docs/_image/ipbloques.png" alt="ipbloques" width="550px">
+<img src="_image/ipbloques.png" alt="ipbloques" width="550px">
 
 >#### Outils
 
@@ -117,7 +117,7 @@ Pour bloquer une adresse IP, sélectionnez l'icône "+" à droite de l'écran.
 
 >#### Sauvegardes de bases de données
 
-<img src="docs/_image/database.png" alt="database" width="650px">
+<img src="_image/database.png" alt="database" width="650px">
 
 **Type:**
 
@@ -132,7 +132,7 @@ Pour bloquer une adresse IP, sélectionnez l'icône "+" à droite de l'écran.
 Nettoyage de la base de données d'historique de l'appareil
 Les options suivantes vous permettent de contrôler la fréquence de nettoyage de la base de données. Ceci est utilisé pour éviter d'inonder la base de données, ce qui entraînera des problèmes de disponibilité des logiciels.
 
-<img src="docs/_image/databaseclean.png" alt="databaseclean" width="550px">
+<img src="_image/databaseclean.png" alt="databaseclean" width="550px">
 
 Pour que le système nettoie automatiquement la base de données, le "Nettoyage automatique des données d'historique" doit être activé.
 
@@ -154,11 +154,11 @@ Tous les plugins et explications peuvent être trouvés ici .
 Avec cet outil, vous pouvez créer un groupe de capteurs à partir duquel plusieurs capteurs peuvent être appliqués à un appareil en même temps. Cela permet d'éviter le processus manuel de création des mêmes capteurs pour chaque appareil individuellement.
 Pour créer un groupe de capteurs, sélectionnez l'icône "+" dans le coin droit. Une fois le menu affiché, accordez un titre au groupe de capteurs et appuyez sur Enregistrer. Le groupe de capteurs apparaîtra dans la liste. Pour ajouter des capteurs au groupe, sous les actions à droite, sélectionnez l'icône d'engrenage et appuyez sur modifier.
 
-<img src="docs/_image/groupecapteurs.png" alt="groupecapteurs" width="550px">
+<img src="_image/groupecapteurs.png" alt="groupecapteurs" width="550px">
 
 Vous pouvez ajouter autant de capteurs que nécessaire. Une fois les capteurs créés, accédez à l'onglet capteur de l'objet et en bas du menu, sélectionnez le groupe de capteurs que vous avez créé dans la liste déroulante "Groupes de capteurs".
 
-<img src="docs/_image/capteuredit.png" alt="capteuredit" width="550px">
+<img src="_image/capteuredit.png" alt="capteuredit" width="550px">
 
 >#### Passerelle SMS
 
@@ -166,7 +166,7 @@ Cet outil est utilisé pour transférer des messages SMS de la plate-forme vers 
 Le service de passerelle SMS doit être acheté auprès d'un fournisseur externe, tel que Plivo, BulkSMS ou tout autre.
 Nous avons également une application SMS Gateway pour les appareils Android, qui transmettra les messages SMS à d'autres utilisateurs, appareils. L'application peut être téléchargée ici .
 
-<img src="docs/_image/passerellesms.png" alt="passerellesms" width="650px">
+<img src="_image/passerellesms.png" alt="passerellesms" width="650px">
 
 ***Activer la passerelle SMS*** - Activez ou désactivez la passerelle SMS configurée dans le panneau d'administration pour les autres utilisateurs. Dans ce cas, chaque utilisateur devra configurer sa propre passerelle SMS.
 

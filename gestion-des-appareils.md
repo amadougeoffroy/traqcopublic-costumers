@@ -1,16 +1,16 @@
 >## Fenêtre contextuelle de l'objet
 
-<img src="docs/_image/fenetrecontaxtuelle.png" alt="fenetrecontaxtuelle" width="380px">
+<img src="_image/fenetrecontaxtuelle.png" alt="fenetrecontaxtuelle" width="380px">
 
 Dans la fenêtre contextuelle réduite, vous pouvez surveiller les informations de base et les capteurs. Une fois que vous avez cliqué sur «Afficher plus», vous verrez toutes les informations disponibles pour cet appareil, y compris les capteurs, les services et les données supplémentaires. Si vous souhaitez vérifier les paramètres que votre appareil envoie, veuillez visiter la section de gestion des capteurs.
 
-<img src="docs/_image/appercurue.png" alt="appercurue" width="580px">
+<img src="_image/appercurue.png" alt="appercurue" width="580px">
 
 Il est également possible d'utiliser "l'aperçu de la rue" tout en surveillant votre appareil. Cette fenêtre s'actualisera automatiquement une fois que votre appareil se déplacera, vous pourrez donc "prévisualiser la rue" en temps réel.
 
 >## Outils rapides d'objet
 
-<img src="docs/_image/outilsrapides.png" alt="outilsrapides" width="580px">
+<img src="_image/outilsrapides.png" alt="outilsrapides" width="580px">
 
 1. ***Afficher l'historique***  - cela affichera instantanément l'historique de l'objet pour la période sélectionnée la plus courante.
 2. ***Suivre***  - une nouvelle fenêtre apparaîtra où vous pourrez surveiller chaque objet individuellement, vous pouvez ouvrir plusieurs fenêtres en même temps.
@@ -19,13 +19,13 @@ Il est également possible d'utiliser "l'aperçu de la rue" tout en surveillant 
 
 >## Modifier - Principal
 
-<img src="docs/_image/mainedit.png" alt="mainedit" width="580px">
+<img src="_image/mainedit.png" alt="mainedit" width="580px">
 
 Pour ajouter un appareil, tout est requis: nom et nom de l'appareil ou identifiant. Vous pouvez modifier le nom et imei naytime.
 
 >## Modifier - Icônes
 
-<img src="docs/_image/editicones.png" alt="editicones" width="580px">
+<img src="_image/editicones.png" alt="editicones" width="580px">
 
 ***Type d'icône:***
 
@@ -42,7 +42,7 @@ Pour ajouter un appareil, tout est requis: nom et nom de l'appareil ou identifia
 
 >## Modifier - Avancé
 
-<img src="docs/_image/advanced.png" alt="advanced" width="580px">
+<img src="_image/advanced.png" alt="advanced" width="580px">
 
 Dans la section avancée, vous pouvez remplir des informations facultatives, attribuer un appareil au groupe (pour créer un nouveau groupe, allez dans Configuration-> Groupes-> Ajouter).
  
@@ -57,13 +57,13 @@ Veuillez consulter la page de gestion des capteurs pour une documentation détai
 
 >## Modifier - Services
 
-<img src="docs/_image/servicesedit.png" alt="servicesedit" width="580px">
+<img src="_image/servicesedit.png" alt="servicesedit" width="580px">
 
 Les services sont utilisés pour surveiller les assurances, la maintenance technique, le changement d'huile, la dépréciation des pièces automobiles, etc.
 
 >## Modifier - Précision
 
-<img src="docs/_image/precisionedit.png" alt="precisionedit" width="580px">
+<img src="_image/precisionedit.png" alt="precisionedit" width="580px">
 
 * ***Heures moteur*** - la sélection par défaut est le GPS, mais si vous avez un allumage ou un capteur moteur connecté à votre tracker gps, il est fortement recommandé de le sélectionner ici. Une fois sélectionné, si le contact est coupé, vous ne verrez pas l'historique inutile (comme la dérive), les heures du moteur, la distance, les événements comme la barrière géographique ou la survitesse ne seront pas déclenchés, vous obtiendrez donc les informations les plus précises, y compris les rapports.
 * ***Min. vitesse de déplacement*** - si la vitesse est inférieure à min. vitesse, le déplacement ne sera pas enregistré.
@@ -74,7 +74,7 @@ Pour éviter que la plate - forme d'enregistrement faux mouvement lors d'un séj
 
 >## Édition - Queue
 
-<img src="docs/_image/editqueue.png" alt="editqueue" width="580px">
+<img src="_image/editqueue.png" alt="editqueue" width="580px">
 
 * ***Couleur de la queue*** - sélectionnez la couleur de la queue de l'objet
 * ***Longueur de la queue*** - quelle est la longueur de la queue

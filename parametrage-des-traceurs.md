@@ -4,14 +4,14 @@ Dans la fenêtre de configuration, vous pouvez configurer plusieurs paramètres 
 
 >## Principale
 
- <img src="docs/_image/setupmain.png" alt="setupmain" width="650px">
+ <img src="_image/setupmain.png" alt="setupmain" width="650px">
 
  Dans l'onglet principal, vous pouvez définir la vitesse, la capacité, les mesures d'altitude et également sélectionner le fuseau horaire pour tous vos trackers gps. En bas, il y a la région du serveur et l'adresse IP auxquelles vous êtes connecté. Pour l'heure d'été (DST), il est toujours recommandé d'utiliser l'option Automatique et de sélectionner votre propre pays.
 
 
 >## Groupes d'objets
 
- <img src="docs/_image/setupgroupobject.png" alt="setupgroupobject" width="650px">
+ <img src="_image/setupgroupobject.png" alt="setupgroupobject" width="650px">
 
  Dans l'onglet "Groupes d'objets", vous pouvez créer des groupes pour vos appareils GPS. Pour attribuer un appareil à votre groupe créé, allez dans Objet-> Édition-> Avancé-> Groupe , sélectionnez votre groupe créé et cliquez sur Enregistrer .
 
@@ -20,29 +20,29 @@ Dans la fenêtre de configuration, vous pouvez configurer plusieurs paramètres 
 
 Ici, vous pouvez créer des pilotes, cliquez sur "Ajouter un pilote" pour en créer un. Tapez n'importe quel nom et sélectionnez votre appareil GPS. Si votre appareil possède un iButton ou RFID, saisissez le numéro rfid / ibutton dans le champ RFID. Le serveur GPS identifie automatiquement le protocole de l'appareil GPS et décode le message rfid. Après avoir créé un nouveau pilote, glissez la carte / l'élément sur votre appareil rfid et vous devriez voir le nom du pilote dans le panneau inférieur gauche ou en cliquant sur l'objet.
 
- <img src="docs/_image/setupconducteur.png" alt="setupconducteur" width="650px">
+ <img src="_image/setupconducteur.png" alt="setupconducteur" width="650px">
 
 >## Événements
 
-<img src="docs/_image/setupevent1.png" alt="setupconducteur" width="650px">
+<img src="_image/setupevent1.png" alt="setupconducteur" width="650px">
 
 Ici, vous pouvez définir vos événements personnalisés. Par exemple, vous pouvez définir que si le bouton SOS est enfoncé, la batterie de l'appareil est faible, etc. l'événement sera déclenché.
 
 Pour savoir quel protocole sélectionner, veuillez connecter votre appareil gps à la plateforme et vérifier les détails de l'objet:
 
-<img src="docs/_image/setupevent2.png" alt="setupconducteur" width="300px">
+<img src="_image/setupevent2.png" alt="setupconducteur" width="300px">
 
 Dans l'image ci-dessus et dans l'exemple ci-dessous, il y a un protocole - "teltonika".
 
 Avant de creuser plus profondément pour créer un événement, veuillez consulter le schéma ci-dessous pour mieux comprendre comment les données transitent du tracker gps vers le serveur gps et comment elles sont traitées:
 
-<img src="docs/_image/setupevent3.png" alt="setupevent3" width="650px">
+<img src="_image/setupevent3.png" alt="setupevent3" width="650px">
 
 Pour vérifier quels paramètres votre tracker gps envoie, veuillez aller dans Historique-> Sélectionner un objet-> Afficher l'historique-> Journal de données
 
 *(En haut, il y a les noms des paramètres et en dessous - les valeurs des paramètres)*
 
-<img src="docs/_image/setupevent4.png" alt="setupevent3" width="650px">
+<img src="_image/setupevent4.png" alt="setupevent3" width="650px">
 
 Il existe de nombreux noms de paramètres comme "sat, adc1, io21 ..." etc. Donc, si vous voulez créer un événement pour le paramètre "sat", vous devez saisir **sat** dans le champ du nom du paramètre. Ceci **associera** l' événement avec le paramètre.
 
@@ -82,20 +82,20 @@ Après avoir installé cette application, assurez-vous qu'elle dispose des autor
 
 Si vous utilisez l'URL (transmission de données via la chaîne d'URL), assurez-vous de sélectionner GET comme méthode de demande
 
-<img src="docs/_image/setupsms.png" alt="setupsms" width="650px">
+<img src="_image/setupsms.png" alt="setupsms" width="650px">
 
 
 >## Modèles SMS
 
 Les modèles créés peuvent être utilisés dans la commande Outils-> Envoyer. Vous n'avez donc pas besoin de taper à nouveau le même message sms.
 
-<img src="docs/_image/addtemplatesms.png" alt="addtemplatesms" width="650px">
+<img src="_image/addtemplatesms.png" alt="addtemplatesms" width="650px">
 
 >## Modèles GPRS
 
 Les modèles créés peuvent être utilisés dans Outils-> Commande d'envoi, vous n'avez donc pas besoin de taper à nouveau la commande. De plus, la variable [% IMEI%] vous aidera à réutiliser le même modèle pour plusieurs trackers gps.
 
-<img src="docs/_image/addgprstemplate.png" alt="addgprstemplate" width="650px">
+<img src="_image/addgprstemplate.png" alt="addgprstemplate" width="650px">
 
 
 

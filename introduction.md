@@ -10,27 +10,27 @@ Pour utiliser la plateforme TRAQCO, il vous faut un minimum de connaissance suiv
 <div class="row" style="text-align:center">
   <div class="col">
 
-[<img src="docs/_image/internet.png" alt="logo" width="65">](https://fr.wikipedia.org/wiki/Internet)
+[<img src="_image/internet.png" alt="logo" width="65">](https://fr.wikipedia.org/wiki/Internet)
 
 </div>
 <div class="col">
 
-[<img src="docs/_image/chrome.png" alt="logo" width="50">](https://www.google.fr/chrome/)
+[<img src="_image/chrome.png" alt="logo" width="50">](https://www.google.fr/chrome/)
 
 </div>
 <div class="col">
 
-[<img src="docs/_image/firefox.png" alt="logo" width="50">](https://www.mozilla.org/fr/)
+[<img src="_image/firefox.png" alt="logo" width="50">](https://www.mozilla.org/fr/)
 
 </div>
 <div class="col">
 
-[<img src="docs/_image/safari.png" alt="logo" width="55">](https://www.apple.com/safari/)
+[<img src="_image/safari.png" alt="logo" width="55">](https://www.apple.com/safari/)
 
 </div>
 <div class="col">
 
-[<img src="docs/_image/maps.png" alt="logo" width="45">](https://www.google.com/maps/)
+[<img src="_image/maps.png" alt="logo" width="45">](https://www.google.com/maps/)
 
 </div>
 </div>
@@ -54,7 +54,7 @@ Pour avoir accès à la plateforme, veuillez saisir l'un des liens suivants dans
   
   ***TROQCO Public :*** http://public.traqco.net/
   
-<img src="docs/_image/publiconnect.png" alt="logo" width="450">
+<img src="_image/publiconnect.png" alt="logo" width="450">
   </div>
 </div>
 

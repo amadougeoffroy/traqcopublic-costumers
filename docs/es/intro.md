@@ -1,3 +1,0 @@
-# Introduction
-
-> An espagnol intruduction.
