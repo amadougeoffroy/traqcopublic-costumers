@@ -12,5 +12,5 @@
 [Lien Platforme](http://public.traqco.net/)
 [Lire documentation](#présentation)
 
-![](_image/man.jpg)
+
 
