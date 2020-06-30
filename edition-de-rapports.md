@@ -31,7 +31,7 @@ Affiche le niveau de carburant pour la période sélectionnée. Le capteur de ca
 
 <img src="_image/remplissagecarburant.png" alt="remplissagecarburant" width="650px">
 
-Affiche les remplissages de carburant pour la période sélectionnée. Le capteur de carburant doit être configuré avant d'utiliser ce rapport. La détection de remplissage de carburant peut être configurée dans Objets-> Édition-> Précision (idem pour le rapport de vols de carburant).
+Affiche les remplissages de carburant pour la période sélectionnée. Le capteur de carburant doit être configuré avant d'utiliser ce rapport. La détection de remplissage de carburant peut être configurée dans *Objets-> Édition-> Précision* (idem pour le rapport de vols de carburant).
 
 >## Informations générales
 
@@ -61,7 +61,7 @@ La présentation est similaire aux rapports fusionnés avec des informations sup
 
 <img src="_image/informationgeneralesfusioneesperso3.png" alt="informationgeneralesfusioneesperso3" width="auto">
 
-Affiche les mêmes informations que les informations générales (fusionnées) personnalisées, mais les informations de chaque appareil sont divisées en différents onglets.
+Affiche les mêmes informations que les informations générales (**fusionnée**) personnalisées, mais les informations de chaque appareil sont divisées en différents onglets.
 
 >## Entrée / sortie Geofence
 

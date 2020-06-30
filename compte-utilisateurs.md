@@ -4,7 +4,7 @@
 
 >## Mes icônes
 
-Vous pouvez télécharger vos propres icônes personnalisées pour les appareils GPS. Les icônes téléchargées peuvent être utilisées dans Objets-> Modifier l'objet-> Icônes
+Vous pouvez télécharger vos propres icônes personnalisées pour les appareils GPS. Les icônes téléchargées peuvent être utilisées dans *Objets-> Modifier l'objet-> Icônes*
 
 >## Changer le mot de passe
 
@@ -16,4 +16,4 @@ Si vous rencontrez des difficultés pour connecter votre appareil ou si vous ave
 
 >## Se déconnecter
 
-Cliquez sur Déconnexion pour quitter la plate-forme de serveur GPS.
+Cliquez sur Déconnexion pour quitter la plate-forme TRAQCO PUBLIC.

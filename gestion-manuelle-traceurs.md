@@ -3,7 +3,7 @@
 <div class="row" style="text-align:left">
   <div class="col-md">
 
- Pour commencer à créer et configurer un appareil, dans le panneau de gauche sous l'onglet "Appareils", sélectionnez l'icône "+".
+ Pour commencer à créer et configurer un appareil, dans le panneau de gauche sous l'onglet "*Appareils*", sélectionnez l'icône "*+*".
 
 </div>
 <div class="col-md">
@@ -16,7 +16,7 @@ L'IMEI de l'appareil se trouve imprimé sur un autocollant sur l'appareil.
 
 <img src="_image/savedevice.png" alt="ajouter" width="auto">
 
-Une fois les détails des objets remplis, sélectionnez "Enregistrer" et l'appareil créé apparaîtra dans la liste des appareils.
+Une fois les détails des objets remplis, sélectionnez "*Enregistrer*" et l'appareil créé apparaîtra dans la liste des appareils.
 
 <img src="_image/devicesgroup.png" alt="ajouter" width="auto">
 

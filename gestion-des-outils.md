@@ -7,7 +7,7 @@ Les outils sont utilisés pour créer des alertes / notifications, des clôtures
 
 >## Outils: alertes
 
-Pour créer une alerte, choisissez «Alertes» dans le menu «Outils» de la fenêtre principale de la carte et appuyez sur le bouton «Ajouter une alerte» (icône bleue «+») sur le panneau des alertes.
+Pour créer une alerte, choisissez «Alertes» dans le menu «Outils» de la fenêtre principale de la carte et appuyez sur le bouton «*Ajouter une alerte*» (icône bleue «*+*») sur le panneau des alertes.
 
 <img src="_image/creeroutils.png" alt="creeroutils" width="auto">
 <img src="_image/creeroutils2.png" alt="creeroutils" width="auto">
@@ -49,7 +49,7 @@ Sélectionnez le type d'alerte dans la liste. Il existe 7 types décrits comme s
 
 <img src="_image/geofencingout.png" alt="geofencingout" width="auto">
 
-***Geofence In / Out*** - cette alerte sera générée lorsque l'objet se déplacera dans ou hors de la barrière géographique. Notez que lorsque vous sélectionnez les types d'alerte "Geofence In", "Geofence out" ou "Geofence In / Out", l'onglet "Geofencing" sera désactivé.
+***Geofence In / Out*** - cette alerte sera générée lorsque l'objet se déplacera dans ou hors de la barrière géographique. Notez que lorsque vous sélectionnez les types d'alerte "**Geofence In**", "**Geofence out**" ou "**Geofence In / Out**", l'onglet "*Geofencing*" sera désactivé.
 
 <img src="_image/geoinout.png" alt="geoinout" width="auto">
 
@@ -91,7 +91,7 @@ Sélectionnez la commande à activer lorsque l'alerte est générée. La command
 
 <img src="_image/addcommand.png" alt="addcommand" width="auto">
 
-Appuyez sur le bouton "Enregistrer" pour terminer les étapes de création d'alerte et fermer la fenêtre de création d'alerte. 
+Appuyez sur le bouton "*Enregistrer*" pour terminer les étapes de création d'alerte et fermer la fenêtre de création d'alerte. 
 
 
 >## Outils: Geofencing
@@ -99,7 +99,7 @@ Appuyez sur le bouton "Enregistrer" pour terminer les étapes de création d'ale
 
 >#### Créer une clôture géographique
 
-Pour créer une nouvelle clôture géographique, cliquez sur  Outils-> Geofencing-> Ajouter une clôture géographique . Tapez le nom de la clôture géographique et sélectionnez sa couleur, puis cliquez sur la carte pour commencer à dessiner la clôture géographique. Une fois le dessin de la clôture géographique terminé, cliquez sur le dernier point et cliquez sur Enregistrer .
+Pour créer une nouvelle clôture géographique, cliquez sur  *Outils-> Geofencing-> Ajouter une clôture géographique* . Tapez le nom de la clôture géographique et sélectionnez sa couleur, puis cliquez sur la carte pour commencer à dessiner la clôture géographique. Une fois le dessin de la clôture géographique terminé, cliquez sur le dernier point et cliquez sur *Enregistrer* .
 
 <img src="_image/creercloture.png" alt="creercloture" width="auto">
 
@@ -119,7 +119,7 @@ Pour l'exportation simple, par groupes, les geofences actives et inactives peuve
 
 L'exportation est enregistrée dans un fichier .gexp.
  
-Pour l'importation, seul le fichier .gexp peut être utilisé. 
+Pour l'importation, seul le fichier **.gexp** peut être utilisé. 
 
 >#### Structure du fichier .gexp
 
@@ -132,9 +132,9 @@ Exemple (unique):
 
 Format:
 
-**" groups "** - le nom du groupe geofence appartient. Emtpy [] signifie non groupé.
+**" groups "** - le nom du groupe geofence appartient. **Emtpy []** signifie non groupé.
 
-**" geofences "** - liste des geofences. A l'intérieur, il faut remplir "id", "group_id", "name" et **"coordonnées"** - "Coordonnées" nécessite une liste de "lat" et "lng" de coordonnées à remplir.
+**" geofences "** - liste des geofences. A l'intérieur, il faut remplir "**id**", "**group_id**", "**name**" et **"coordonnées"** - "**Coordonnées**" nécessite une liste de "**lat**" et "**lng**" de coordonnées à remplir.
 
 **" polygon_color "** - couleur en code hexadécimal html.
 
@@ -143,7 +143,7 @@ Format:
 
 >#### Principale
 
-Pour créer un nouveau rapport ou le planifier, cliquez sur Outils-> Rapports 
+Pour créer un nouveau rapport ou le planifier, cliquez sur *Outils-> Rapports *
 
 <img src="_image/rapportprincipale.png" alt="rapportprincipale" width="auto">
 
@@ -181,7 +181,7 @@ Sélectionnez les appareils pour créer un rapport.
 
 **Geofences**
 
-Cela permet de sélectionner des zones dont les détails seront visibles dans le rapport. La sélection de zone n'est disponible que si le type de rapport Zone in / out est choisi.
+Cela permet de sélectionner des zones dont les détails seront visibles dans le rapport. La sélection de zone n'est disponible que si le type de rapport *Zone in / out* est choisi.
 
 **Période de temps**
 
@@ -203,15 +203,15 @@ Tous les rapports générés planifiés. Si vous ne les avez pas reçus par e-ma
 
 >## Outils: envoyer une commande
 
-Les commandes peuvent être envoyées via GPRS ou SMS (la passerelle sms doit être activée ( Configuration-> SMS )).
+Les commandes peuvent être envoyées via GPRS ou SMS (la passerelle sms doit être activée ( *Configuration-> SMS* )).
 
-Type - si vous sélectionnez une commande personnalisée, vous pourrez envoyer la commande RAW gprs au périphérique ou sélectionner le modèle GPRS que vous avez créé dans Configuration-> Modèles GPRS.
+Type - si vous sélectionnez une commande personnalisée, vous pourrez envoyer la commande RAW gprs au périphérique ou sélectionner le **modèle GPRS** que vous avez créé dans *Configuration-> Modèles GPRS*.
 
-Si vous voulez voir vos commandes gprs spécifiées pour le périphérique sélectionné uniquement, veuillez aller dans Objets-> Modifier-> Avancé-> Afficher les modèles gprs uniquement.
+Si vous voulez voir vos commandes gprs spécifiées pour le périphérique sélectionné uniquement, veuillez aller dans *Objets-> Modifier-> Avancé-> Afficher les modèles gprs uniquement*.
 
 <img src="_image/envoicmd.png" alt="envoicmd" width="auto">
 
-Pour envoyer la commande sms à l'appareil, la passerelle sms doit être activée ( Setup-> SMS ).
+Pour envoyer la commande sms à l'appareil, la passerelle sms doit être activée ( *Setup-> SMS* ).
 
 <img src="_image/sendcmd.png" alt="sendcmd" width="auto">
 
@@ -221,11 +221,11 @@ Pour envoyer la commande sms à l'appareil, la passerelle sms doit être activé
 
 >#### Règle
 
-Pour vérifier la distance entre 2 points ou plus, cliquez sur  Outils-> Règle et commencez à cliquer sur la carte.
+Pour vérifier la distance entre 2 points ou plus, cliquez sur  *Outils-> Règle* et commencez à cliquer sur la carte.
 
 >#### POI
 
-POI - point d'intérêt. Ce sont les icônes que vous pouvez placer n'importe où sur la carte et créer une étiquette pour celle-ci. Le format de fichier d'importation de POI est .KML.
+POI - point d'intérêt. Ce sont les icônes que vous pouvez placer n'importe où sur la carte et créer une étiquette pour celle-ci. Le format de fichier d'importation de POI est **.KML**.
 
 <img src="_image/autrepoi.png" alt="autrepoi" width="auto">
 
@@ -244,7 +244,7 @@ Affiche une adresse par coordonnées.
 
 Avec cet outil, vous pouvez capturer des images de chaque traceur GPS, auquel est attaché un appareil photo. Dans la fenêtre, vous pouvez voir tous les trackers auxquels les caméras sont connectées, vous pouvez également afficher les photos prises, sélectionner la caméra via son identifiant, s'il y a plus d'une caméra connectée, afficher l'adresse et la carte où la photo était pris.
 
-Il peut être trouvé via le menu principal Outils> Appareil photo / Média.
+Il peut être trouvé via le menu principal *Outils> Appareil photo / Média*.
 
 <img src="_image/appmedia.jpg" alt="appmedia" width="auto">
 
@@ -252,7 +252,7 @@ Il peut être trouvé via le menu principal Outils> Appareil photo / Média.
 
 Si gps tracker ne prend pas en charge l'appareil photo ou si vous souhaitez connecter un autre appareil photo dans la voiture, quel que soit le gps tracker que vous utilisez, cet outil peut être utile. Une fois que la ou les caméras IP sont connectées dans la voiture, les coordonnées GPS seront associées à la caméra par la date et l'heure disponibles les plus proches.
 
-Pour commencer, veuillez aller dans Modifier l'appareil-> Caméras-> Ajouter une caméra:
+Pour commencer, veuillez aller dans *Modifier l'appareil-> Caméras-> Ajouter une caméra*:
 
 <img src="_image/addcamera.png" alt="addcamera" width="auto">
 
@@ -265,14 +265,14 @@ Une fois les paramètres FTP des caméras définis, vous commencerez à en voir 
 
 <img src="_image/camerasvues.png" alt="camerasvues" width="auto">
 
-Dans le panneau d'administration, vous pouvez définir combien de jours pour conserver les images de la caméra de l'appareil, dans Admin-> Configuration-> Paramètres du serveur principal.
+Dans le panneau d'administration, vous pouvez définir combien de jours pour conserver les images de la caméra de l'appareil, dans *Admin-> Configuration-> Paramètres du serveur principal*.
 
 
 >## Outils: tâches
 
 Cet outil vous permet de créer des tâches, telles que des livraisons qui peuvent être affectées à des objets en utilisant uniquement l'application de suivi GPS mobile.
 
-Pour créer une tâche, accédez à Outils -> Tâches
+Pour créer une tâche, accédez à *Outils -> Tâches*
 
 <img src="_image/outilstaches.jpg" alt="outilstaches" width="auto">
 
@@ -280,8 +280,8 @@ Une nouvelle fenêtre apparaîtra qui vous demandera de remplir les détails né
 
 .
 
-Une fois toutes les informations saisies, sélectionnez «Enregistrer» et ouvrez l'application de suivi GPS mobile.
-Depuis l'application, accédez à l'outil Tâches et vous serez accueilli avec les tâches affectées à l'objet. Pour accepter la tâche, appuyez sur "Accepter".
+Une fois toutes les informations saisies, sélectionnez «*Enregistrer*» et ouvrez l'application de suivi GPS mobile.
+Depuis l'application, accédez à l'outil Tâches et vous serez accueilli avec les tâches affectées à l'objet. Pour accepter la tâche, appuyez sur "*Accepter*".
 
 <img src="_image/demotasks.jpg" alt="demotasks" width="auto">
 
@@ -298,17 +298,17 @@ Vous pourrez également consulter la signature des livraisons complétées.
 >## Outils: Maintenance
 
 Avec l'outil d'entretien, vous pouvez configurer le programme d'entretien du véhicule pour vous rappeler quand le prochain entretien du véhicule est dû.
-Pour ouvrir l'outil de maintenance, sélectionnez l'onglet "Services" dans les détails des objets, ou en activant le widget "Service" dans Configuration -> Widgets, qui apparaît en bas de la carte lors de la sélection et de la sélection de l'icône d'engrenage.
+Pour ouvrir l'outil de maintenance, sélectionnez l'onglet "Services" dans les détails des objets, ou en activant le widget "*Service*" dans *Configuration -> Widgets*, qui apparaît en bas de la carte lors de la sélection et de la sélection de l'icône d'engrenage.
 
 Accès à l'outil de maintenance via les détails de l'objet:
 
 <img src="_image/mantenaceedit.png" alt="mantenaceedit" width="auto">
 
-Via le widget "Service" en sélectionnant l'icône d'engrenage:
+Via le widget "*Service*" en sélectionnant l'icône d'engrenage:
 
 <img src="_image/maitenancevia.png" alt="maitenancevia" width="auto">
 
-Après avoir ouvert l'outil de maintenance, l'écran suivant apparaît, affichant les horaires de currect ajoutés. Pour créer un nouvel horaire, sélectionnez "Ajouter un service".
+Après avoir ouvert l'outil de maintenance, l'écran suivant apparaît, affichant les horaires de currect ajoutés. Pour créer un nouvel horaire, sélectionnez "*Ajouter un service*".
 
 <img src="_image/maintservices.png" alt="maintservices" width="auto">
 
@@ -330,7 +330,7 @@ Une fois sélectionné, vous serez invité à saisir les informations suivantes:
 ***Description :*** Une brève description du service.
 ***Courriel / Numéro de téléphone :*** requis si une alerte doit être envoyée avant la réparation du véhicule.
 
-Pour afficher tous les programmes de maintenance créés, accédez à Outils -> Maintenance
+Pour afficher tous les programmes de maintenance créés, accédez à *Outils -> Maintenance*
 
 <img src="_image/outils1.png" alt="outils1" width="auto">
 
@@ -341,11 +341,11 @@ Pour afficher tous les programmes de maintenance créés, accédez à Outils -> 
 La fonction de tableau de bord est utilisée pour afficher des informations utiles de manière plus complète. Il peut être utilisé pour afficher l'activité de l'appareil, les événements, le nombre d'appareils (en ligne / hors ligne), le nombre et la progression des tâches et la distance parcourue par les appareils.
 Il peut s'ouvrir manuellement ou en configurant que le tableau de bord s'ouvre à chaque fois que vous ouvrez la carte.
 
-Pour activer l'ouverture automatique du tableau de bord et activer les informations à afficher, accédez à Configuration -> Tableau de bord.
+Pour activer l'ouverture automatique du tableau de bord et activer les informations à afficher, accédez à *Configuration -> Tableau de bord*.
 
 <img src="_image/outilsdashboard.png" alt="outilsdashboard" width="auto">
 
-Pour ouvrir le tableau de bord manuellement, accédez à Outils -> Tableau de bord
+Pour ouvrir le tableau de bord manuellement, accédez à *Outils -> Tableau de bord*
 
 <img src="_image/liendashboard.png" alt="liendashboard" width="auto">
 
@@ -356,7 +356,7 @@ Un aperçu du tableau de bord:
 >## Outils: partage
 
 L'outil de partage est utilisé pour créer un lien partageable pour suivre les objets GPS sans avoir à se connecter à la plate-forme Web.
-Pour accéder au menu d'outils Partage, accédez à Outils -> Partage.
+Pour accéder au menu d'outils Partage, accédez à *Outils -> Partage*.
 
 <img src="_image/outilspartage.png" alt="outilspartage" width="auto">
 
@@ -377,7 +377,7 @@ Il existe 3 options pour les durées:
     
 Sous les appareils, vous avez la possibilité de saisir un ou plusieurs e-mails pour envoyer un lien dès sa création.
 
-Pour afficher, modifier et supprimer les liens de partage créés, accédez à "Partages" en haut du menu.
+Pour afficher, modifier et supprimer les liens de partage créés, accédez à "*Partages*" en haut du menu.
 
 <img src="_image/sharing.png" alt="sharing" width="auto">
 

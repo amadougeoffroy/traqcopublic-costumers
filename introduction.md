@@ -1,8 +1,8 @@
 >## Prérequis
 
- ***Bienvenue sur votre plateforme TRAQCO - le système de suivi de vos véhicules par GPS.***
+ ***Bienvenue sur votre plateforme TRAQCO PUBLIC - le système de suivi de vos véhicules par GPS.***
 
-Pour utiliser la plateforme TRAQCO, il vous faut un minimum de connaissance suivant :
+Pour utiliser la plateforme TRAQCO PUBLIC, il vous faut un minimum de connaissance suivant :
 * Internet (navigation et recherche)
 * Navigateur Web (Google Chrome, Mozilla Firefox, Safari, etc.)
 * Google maps (lire carte, position, routes, etc.)
@@ -37,12 +37,12 @@ Pour utiliser la plateforme TRAQCO, il vous faut un minimum de connaissance suiv
 
 >## Terminologie
 
-* ***Dispositif :*** Le ou les périphériques de suivi GPS que vous utilisez avec TRAQCO PRO.
+* ***Dispositif :*** Le ou les périphériques de suivi GPS que vous utilisez avec TRAQCO PUBLIC.
 
-* ***Véhicule :*** Un véhicule ici est tout simplement un périphérique qui a été inscrit sur la plateforme TRAQCO PRO.
+* ***Véhicule :*** Un véhicule ici est tout simplement un périphérique qui a été inscrit sur la plateforme TRAQCO PUBLIC.
 Vous pouvez bien sûr suivre n'importe quoi, mais pour les besoins de ce manuel, nous utilisons le terme véhicule, ou simplement appareil.
 
-* ***Application :*** C'est la matérialisation de votre flotte (véhicules équipés de traceurs GPS) dans TRAQCO PRO.
+* ***Application :*** C'est la matérialisation de votre flotte (véhicules équipés de traceurs GPS) dans TRAQCO PUBLIC.
 
 >## Accès à la plateforme
 

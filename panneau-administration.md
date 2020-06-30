@@ -74,12 +74,12 @@ Fuseau horaire par défaut - Ce paramètre applique un fuseau horaire à tous le
 
 ***Autorisations*** - Ce sont les autorisations pour les fonctionnalités que chaque nouvel utilisateur recevra lors de l'inscription. (Ce paramètre s'applique uniquement si les plans ne sont pas activés)
 
-Pour ajouter des plans payants aux utilisateurs, l'option "Activer les plans" doit être cochée.
-Dans le coin droit de l'onglet "Plans", sélectionnez le "+" pour créer un nouveau plan.
+Pour ajouter des plans payants aux utilisateurs, l'option "*Activer les plans*" doit être cochée.
+Dans le coin droit de l'onglet "*Plans*", sélectionnez le "*+*" pour créer un nouveau plan.
 
 <img src="_image/paneauadminuser2.png" alt="paneauadminuser2" width="auto">
 
-Une nouvelle fenêtre s'ouvrira, vous invitant à remplir le titre du plan, le prix, la limite d'objet et la durée. Dans l'onglet "Autorisations", vous pouvez sélectionner les fonctionnalités que l'utilisateur peut utiliser pour des plans spécifiques. La devise est utilisée en fonction des paramètres de l'onglet "Passerelle de facturation".
+Une nouvelle fenêtre s'ouvrira, vous invitant à remplir le titre du plan, le prix, la limite d'objet et la durée. Dans l'onglet "*Autorisations*", vous pouvez sélectionner les fonctionnalités que l'utilisateur peut utiliser pour des plans spécifiques. La devise est utilisée en fonction des paramètres de l'onglet "*Passerelle de facturation*".
 
 <img src="_image/paneauadminuser3.png" alt="paneauadminuser3" width="auto">
 
@@ -101,8 +101,8 @@ Dans cet onglet, vous pouvez activer / désactiver, modifier le numéro de port 
 >#### Les langues
 
 Il s'agit d'une liste de toutes les langues disponibles sur la plateforme.
-S'il y a des traductions incorrectes pour votre langue, vous pouvez les ajuster dans les paramètres de langues. Ils sont situés à droite de l'écran. Sous "Actions", sélectionnez "Traduire" pour corriger les traductions.
-Le nom et la disponibilité de la langue peuvent également être modifiés à l'aide de l'option "Modifier".
+S'il y a des traductions incorrectes pour votre langue, vous pouvez les ajuster dans les paramètres de langues. Ils sont situés à droite de l'écran. Sous "*Actions*", sélectionnez "*Traduire*" pour corriger les traductions.
+Le nom et la disponibilité de la langue peuvent également être modifiés à l'aide de l'option "*Modifier*".
 
 >#### IP bloquées
 
@@ -134,7 +134,7 @@ Les options suivantes vous permettent de contrôler la fréquence de nettoyage d
 
 <img src="_image/databaseclean.png" alt="databaseclean" width="auto">
 
-Pour que le système nettoie automatiquement la base de données, le "Nettoyage automatique des données d'historique" doit être activé.
+Pour que le système nettoie automatiquement la base de données, le "*Nettoyage automatique des données d'historique*" doit être activé.
 
 Le système permet 2 méthodes de nettoyage:
 
@@ -152,11 +152,11 @@ Tous les plugins et explications peuvent être trouvés ici .
 >#### Groupes de capteurs
 
 Avec cet outil, vous pouvez créer un groupe de capteurs à partir duquel plusieurs capteurs peuvent être appliqués à un appareil en même temps. Cela permet d'éviter le processus manuel de création des mêmes capteurs pour chaque appareil individuellement.
-Pour créer un groupe de capteurs, sélectionnez l'icône "+" dans le coin droit. Une fois le menu affiché, accordez un titre au groupe de capteurs et appuyez sur Enregistrer. Le groupe de capteurs apparaîtra dans la liste. Pour ajouter des capteurs au groupe, sous les actions à droite, sélectionnez l'icône d'engrenage et appuyez sur modifier.
+Pour créer un groupe de capteurs, sélectionnez l'icône "*+*" dans le coin droit. Une fois le menu affiché, accordez un titre au groupe de capteurs et appuyez sur Enregistrer. Le groupe de capteurs apparaîtra dans la liste. Pour ajouter des capteurs au groupe, sous les actions à droite, sélectionnez l'icône d'engrenage et appuyez sur modifier.
 
 <img src="_image/groupecapteurs.png" alt="groupecapteurs" width="auto">
 
-Vous pouvez ajouter autant de capteurs que nécessaire. Une fois les capteurs créés, accédez à l'onglet capteur de l'objet et en bas du menu, sélectionnez le groupe de capteurs que vous avez créé dans la liste déroulante "Groupes de capteurs".
+Vous pouvez ajouter autant de capteurs que nécessaire. Une fois les capteurs créés, accédez à l'onglet capteur de l'objet et en bas du menu, sélectionnez le groupe de capteurs que vous avez créé dans la liste déroulante "*Groupes de capteurs*".
 
 <img src="_image/capteuredit.png" alt="capteuredit" width="auto">
 
@@ -172,7 +172,7 @@ Nous avons également une application SMS Gateway pour les appareils Android, qu
 
 ***Utiliser la même passerelle pour les messages système*** - Permet aux utilisateurs d'utiliser la passerelle configurée dans le panneau d'administration pour les messages système, par exemple, l'activation du périphérique GPS.
 
-***Méthode de demande*** - Les méthodes disponibles sont GET et POST. Reportez-vous à la documentation du fournisseur de passerelle SMS pour la méthode correcte.
+***Méthode de demande*** - Les méthodes disponibles sont **GET** et **POST**. Reportez-vous à la documentation du fournisseur de passerelle SMS pour la méthode correcte.
 
 ***En-têtes de passerelle SMS*** - En- têtes requis par le fournisseur de passerelle SMS.
 

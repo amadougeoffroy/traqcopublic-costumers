@@ -1,6 +1,6 @@
 >## Activation/Désactivation
 
-Les plugins peuvent être activés ou désactivés dans le panneau de configuration administrateur et ils se trouvent dans Admin -> Configuration-> Plugins. Voici une liste de plugins et des descriptions de ce qu'ils font. Cette page est constamment mise à jour à mesure que de nouveaux plugins sont développés.
+Les plugins peuvent être activés ou désactivés dans le panneau de configuration administrateur et ils se trouvent dans *Admin -> Configuration-> Plugins*. Voici une liste de plugins et des descriptions de ce qu'ils font. Cette page est constamment mise à jour à mesure que de nouveaux plugins sont développés.
 
 >## Liste d'objets
 
@@ -33,14 +33,14 @@ Affiche la distance totale parcourue par l'appareil. La distance est calculée p
 
 >## Le widget de l'appareil affiche l'adresse complète
 
-Dans le widget "Objet", il affichera l'adresse complète au lieu d'une adresse abrégée.
+Dans le widget "**Objet**", il affichera l'adresse complète au lieu d'une adresse abrégée.
 
 <img src="_image/adressecomplete.png" alt="adressecomplete" width="auto">
 
 >## Notification de partage d'alertes
 
 Lorsque le plugin est activé, vous pourrez envoyer une notification d'alerte avec un lien par e-mail et SMS pour afficher l'emplacement et le mouvement des objets sur la carte.
-Il est possible de définir un délai d'expiration en minutes avant que le lien ne devienne inactif. L'option "supprimer après expiration" supprime définitivement le lien dans l'onglet "Partages" de l'outil "Partage".
+Il est possible de définir un délai d'expiration en minutes avant que le lien ne devienne inactif. L'option "*supprimer après expiration*" supprime définitivement le lien dans l'onglet "*Partages*" de l'outil "**Partage**".
 
 <img src="_image/partagealertes.png" alt="partagealertes" width="auto">
 

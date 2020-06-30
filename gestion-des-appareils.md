@@ -2,11 +2,11 @@
 
 <img src="_image/fenetrecontaxtuelle.png" alt="fenetrecontaxtuelle" width="auto">
 
-Dans la fenêtre contextuelle réduite, vous pouvez surveiller les informations de base et les capteurs. Une fois que vous avez cliqué sur «Afficher plus», vous verrez toutes les informations disponibles pour cet appareil, y compris les capteurs, les services et les données supplémentaires. Si vous souhaitez vérifier les paramètres que votre appareil envoie, veuillez visiter la section de gestion des capteurs.
+Dans la fenêtre contextuelle réduite, vous pouvez surveiller les informations de base et les capteurs. Une fois que vous avez cliqué sur «*Afficher plu*s», vous verrez toutes les informations disponibles pour cet appareil, y compris les capteurs, les services et les données supplémentaires. Si vous souhaitez vérifier les paramètres que votre appareil envoie, veuillez visiter la section de gestion des capteurs.
 
 <img src="_image/appercurue.png" alt="appercurue" width="auto">
 
-Il est également possible d'utiliser "l'aperçu de la rue" tout en surveillant votre appareil. Cette fenêtre s'actualisera automatiquement une fois que votre appareil se déplacera, vous pourrez donc "prévisualiser la rue" en temps réel.
+Il est également possible d'utiliser "*l'aperçu de la rue*" tout en surveillant votre appareil. Cette fenêtre s'actualisera automatiquement une fois que votre appareil se déplacera, vous pourrez donc "prévisualiser la rue" en temps réel.
 
 >## Outils rapides d'objet
 
@@ -29,24 +29,24 @@ Pour ajouter un appareil, tout est requis: nom et nom de l'appareil ou identifia
 
 ***Type d'icône:***
 
-* ***Flèche*** - une flèche avec direction et couleur (vert, jaune, rouge) sera affichée. C'est la sélection par défaut et recommandée car elle vous donne le plus de contrôle et d'informations.
+* ***Flèche*** - une flèche avec direction et couleur (*vert, jaune, rouge*) sera affichée. C'est la sélection par défaut et recommandée car elle vous donne le plus de contrôle et d'informations.
 * ***Icône de rotation*** - l'icône du véhicule visible du haut sera affichée, elle tournera selon la direction.
 * ***Icône*** - une icône simple sera affichée sans direction ni statut.
 
 ***Type d'icône - Flèche. Il y a 4 états:***
 
-* ***Déplacement*** - lorsque la vitesse de l'appareil est supérieure à la vitesse minimale définie dans edit-> precision-> min. Vitesse de déplacement
-* ***Arrêté*** - lorsque la vitesse de l'appareil est inférieure à la vitesse minimale définie dans éditer-> précision-> min. Vitesse de déplacement
+* ***Déplacement*** - lorsque la vitesse de l'appareil est supérieure à la vitesse minimale définie dans *edit-> precision-> min*. Vitesse de déplacement
+* ***Arrêté*** - lorsque la vitesse de l'appareil est inférieure à la vitesse minimale définie dans *éditer-> précision-> min*. Vitesse de déplacement
 * ***Hors ligne*** - si l'appareil n'envoie pas d'informations au serveur pendant 5 minutes ou plus ou s'il est déconnecté du serveur gps
-* ***Ralenti du moteur*** - pour que le ralenti du moteur soit actif, vous devez ajouter un capteur d'allumage / extinction ou allumage / extinction du moteur, puis ajouter ces capteurs dans éditer-> précision-> heures du moteur (passer du gps). Le ralenti du moteur signifie que le contact / moteur est mis mais que l'appareil ne bouge pas.
+* ***Ralenti du moteur*** - pour que le ralenti du moteur soit actif, vous devez ajouter un capteur d'allumage / extinction ou allumage / extinction du moteur, puis ajouter ces capteurs dans *éditer-> précision-> heures du moteur* (passer du gps). Le ralenti du moteur signifie que le contact / moteur est mis mais que l'appareil ne bouge pas.
 
 >## Modifier - Avancé
 
 <img src="_image/advanced.png" alt="advanced" width="auto">
 
-Dans la section avancée, vous pouvez remplir des informations facultatives, attribuer un appareil au groupe (pour créer un nouveau groupe, allez dans Configuration-> Groupes-> Ajouter).
+Dans la section avancée, vous pouvez remplir des informations facultatives, attribuer un appareil au groupe (pour créer un nouveau groupe, allez dans *Configuration-> Groupes-> Ajouter*).
  
-* ***Afficher uniquement les commandes GPRS Tempaltes*** - si vous la cochez, seules les commandes gprs personnalisées seront affichées pour votre appareil dans Outils-> Commande Envoyer. Les modèles GPRS peuvent être créés dans Setup-> GPRS Tempaltes
+* ***Afficher uniquement les commandes GPRS Tempaltes*** - si vous la cochez, seules les commandes gprs personnalisées seront affichées pour votre appareil dans *Outils-> Commande Envoyer*. Les modèles GPRS peuvent être créés dans *Setup-> GPRS Tempaltes*
 * ***Mesure de carburant*** - si vous n'avez pas de capteurs de carburant connectés à votre appareil GPS, vous pouvez saisir des mesures ici afin qu'elles correspondent dans l'historique et les rapports.
 * ***Transférer*** - La plate-forme copiera et enverra les données brutes du périphérique à l'adresse IP et au port donnés dans une connexion UDP ou TCP.
 * ***Réglage de l'heure*** - cela ajustera manuellement l'heure individuellement pour le périphérique GPS sélectionné. Utilisé uniquement dans ces cas, lorsque vous ne parvenez pas à définir le fuseau horaire sur UTC 0 pour votre appareil.
@@ -70,7 +70,7 @@ Les services sont utilisés pour surveiller les assurances, la maintenance techn
 * ***Min. différence de carburant pour détecter les remplissages de carburant*** - si la valeur du capteur augmente instantanément de 10 unités ou plus, le remplissage de carburant sera détecté.
 * ***Min. différence de carburant pour détecter les vols de carburant***  - si la valeur du capteur diminue instantanément de 10 unités ou plus, le vol de carburant sera détecté.
 
-Pour éviter que la plate - forme d'enregistrement faux mouvement lors d'un séjour à un endroit et les points GPS ne sont pas exacts « Valeur minimale « de Vitesse de déplacement doit être augmentée Additionaly si l' appareil dispose d' un capteur d'allumage -.. Ajouter arrêtera la plate - forme l' enregistrement des points de localisation lorsque le contact de l' objet est éteint.
+Pour éviter que la plate - forme d'enregistrement faux mouvement lors d'un séjour à un endroit et les points GPS ne sont pas exacts « *Valeur minimale « de Vitesse de déplacement doit être augmentée Additionaly si l' appareil dispose d' un capteur d'allumage* -.. Ajouter arrêtera la plate - forme l' enregistrement des points de localisation lorsque le contact de l' objet est éteint.
 
 >## Édition - Queue
 
