@@ -12,5 +12,5 @@
 [Platform link](http://public.traqco.net/)
 [Get started](#get-started)
 
-
+![bg](_image/man.jpg)
 
