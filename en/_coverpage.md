@@ -1,5 +1,5 @@
 
-<img src="../_image/logotraqco.png" alt="logo" width="400">
+<img src="_image/logotraqco.png" alt="logo" width="400">
 
 # TRAQCO PUBLIC <small>1.0.0</small>
 
