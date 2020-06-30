@@ -4,6 +4,8 @@ Les plugins peuvent être activés ou désactivés dans le panneau de configurat
 
 >## Liste d'objets
 
+Une fois activé, une icône supplémentaire apparaîtra dans la liste des objets. Cette icône ouvrira une nouvelle fenêtre avec des informations configurables supplémentaires.
+
 <img src="_image/listeobjet.png" alt="listeobjet" width="auto">
 
 <img src="_image/listeobjet2.png" alt="listeobjet2" width="auto">

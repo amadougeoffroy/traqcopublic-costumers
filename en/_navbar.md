@@ -1,0 +1,17 @@
+- Summary
+  - [Introduction](introduction.md)
+  - [Workspace](espace-de-travail.md)
+  - [My Account](compte-utilisateurs.md)
+  - [Tracker management](gestion-manuelle-traceurs.md)
+  - [Sensor management](gestion-des-capteurs.md)
+  - [Device management](gestion-des-appareils.md)
+  - [Tools management](gestion-des-outils.md)
+  - [Widgets](objets-graphiques.md)
+  - [Editing reports](edition-de-rapports.md)
+  - [Plugins](gestion-des-extensions.md)
+  - [Admin panel](panneau-administration.md)
+  - [Global parameters](parametres-generaux.md)
+
+- Languages
+  - [:uk: English](/en/)
+  - [:fr: Français](/)

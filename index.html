@@ -22,44 +22,38 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      alias: {
-        '/.*/_navbar.md': '/_navbar.md',
-        '/es/(.*)/_navbar.md': '/es/_navbar.md'
-      },
-      coverpage: true,
+      
+    
       auto2top: true,
       relativePath: true,
-      fallbackLanguages: ['en', 'de', 'it', 'es','ru'],
       notFoundPage: {
         '/': '_404.md',
-        '/es': 'es/_404.md',
+        '/en/': 'en/_404.md',
       },
       loadSidebar: {
         '/': '_sidebar.md',
-        '/es/': 'es/_sidebar.md',
+        '/en/': 'en/_sidebar.md',
       },
+      loadNavbar: {
+        '/': '_navbar.md',
+        '/en/': 'en/_navbar.md',
+      },
+      coverpage: ['/', '/en/'],
       themeColor: '#699417',
-      loadSidebar: true,
       loadNavbar: true,
+      loadSidebar: true,
       mergeNavbar: true,
       name: 'TRAQCO Public',
       search: {
         noData: {
           '/': 'Aucun resultat !',
-          '/en/': '',
-          '/de/': '',
-          '/it/': '',
-          '/es/': 'Espagnol resultat',
-          '/ru/': ''
+          '/en/': 'No result found'
         },
+        depth: 4,
         paths: [],
         placeholder: {
           '/': 'Rechercher',
-          '/en/': '',
-          '/de/': '',
-          '/it/': '',
-          '/es/': 'Espagnol search',
-          '/ru/': ''
+          '/en/': 'Type to search'
         }
       },
       repo: 'amadougeoffroy/documentation-traqco-public',

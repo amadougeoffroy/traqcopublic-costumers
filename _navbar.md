@@ -15,7 +15,3 @@
 - Langues
   - [:fr: Français](/)
   - [:uk: English](/en/)
-  - [:de: Deutsch](/de/)
-  - [:es: Spanish](/es/)
-  - [:it: Italian](/it/)
-  - [:ru: Russian](/ru/)

@@ -1,6 +1,6 @@
 >## Ajout/Suppression
 
-Vous pouvez modifier les widgets que vous souhaitez voir sur votre carte principale à l'aide de la configuration .
+Vous pouvez modifier les widgets que vous souhaitez voir sur votre carte principale à l'aide de la [configuration](parametrage-des-traceurs.md?id=fenêtre-de-configuration) .
 
 En désactivant les «**widgets par défaut**», vous pouvez ajouter ou supprimer ces derniers.
 
@@ -32,7 +32,7 @@ Le widget d'image de l'appareil offre la possibilité d'ajouter l'image du véhi
 
 >## Prestations de service
 
-Ce widget affiche tous les services de maintenance créés et la date / intervalle d'échéance pour l'objet. Un guide est disponible expliquant comment créer de tels services sur la page *Outils: Maintenance* .
+Ce widget affiche tous les services de maintenance créés et la date / intervalle d'échéance pour l'objet. Un guide est disponible expliquant comment créer de tels services sur la page [Outils: Maintenance](gestion-des-outils.md?id=outils-maintenance) .
 
 <img src="_image/prestaservices.png" alt="prestaservices" width="auto">
 

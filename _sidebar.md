@@ -117,8 +117,8 @@
   - [RAG (Performance du conducteur)](edition-de-rapports.md?id=rag-performance-du-conducteur)
   - [Température](edition-de-rapports.md?id=température)
   - [Feuille de voyage](edition-de-rapports.md?id=feuille-de-voyage)
-  - [Feuille de voyage personnalisée](edition-de-rapports.md?id=initialize)
-  - [Itinéraires](edition-de-rapports.md?id=feuille-de-voyage-personnalisée)
+  - [Feuille de voyage personnalisée](edition-de-rapports.md?id=feuille-de-voyage-personnalisée)
+  - [Itinéraires](edition-de-rapports.md?id=itinéraires)
   - [Commandes envoyées](edition-de-rapports.md?id=commandes-envoyées)
   - [Heures de travail quotidiennes](edition-de-rapports.md?id=heures-de-travail-quotidiennes)
 
