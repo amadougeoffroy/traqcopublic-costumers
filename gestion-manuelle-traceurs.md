@@ -7,18 +7,18 @@
 
 </div>
 <div class="col-md">
-<img src="_image/createdevices.png" alt="ajouter" width="380px">
+<img src="_image/createdevices.png" alt="ajouter" width="auto">
  </div>
 </div>
 
 Un nouveau menu apparaîtra vous demandant de remplir le nom de l'objet et IMEI.
 L'IMEI de l'appareil se trouve imprimé sur un autocollant sur l'appareil.
 
-<img src="_image/savedevice.png" alt="ajouter" width="600px">
+<img src="_image/savedevice.png" alt="ajouter" width="auto">
 
 Une fois les détails des objets remplis, sélectionnez "Enregistrer" et l'appareil créé apparaîtra dans la liste des appareils.
 
-<img src="_image/devicesgroup.png" alt="ajouter" width="280px">
+<img src="_image/devicesgroup.png" alt="ajouter" width="auto">
 
 
 >## Configuration d'un appareil
@@ -36,6 +36,6 @@ Voici un exemple de commandes SMS utilisées pour les appareils *Coban GT02A* :
 Une fois l'appareil configuré, il apparaîtra en ligne.
 Veuillez prévoir jusqu'à 1 minute pour que le serveur reçoive le premier paquet de données de l'appareil.
 
-<img src="_image/savegroupe.png" alt="ajouter" width="280px">
+<img src="_image/savegroupe.png" alt="ajouter" width="auto">
 
 

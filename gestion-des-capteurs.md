@@ -2,13 +2,13 @@
 
 Pour ajouter un nouveau capteur (moteur en marche / arrêt, acc marche / arrêt, batterie, réservoir de carburant, odomètre, température, porte ouverte / fermée, signal GSM, signal GPS, satellites, tachymètre, etc.) pour votre objet, accédez à Objet- > Modifier l'objet-> Capteurs-> Ajouter un nouveau capteur. Mais avant de faire cela, jetez un œil ci-dessous au schéma, comment les paramètres sont envoyés à partir du périphérique GPS et comment ils doivent être couplés avec des capteurs.
 
-<img src="_image/gestionaddcapteur.png" alt="ajouter" width="580px">
+<img src="_image/gestionaddcapteur.png" alt="ajouter" width="auto">
 
 Pour vérifier quels paramètres votre tracker gps envoie, veuillez aller dans Historique-> Sélectionner un objet-> Afficher l'historique-> Journal de données
 
 (En haut se trouvent les noms des paramètres et en dessous - les valeurs des paramètres)
 
-<img src="_image/gestionaddcapteur2.png" alt="ajouter" width="680px">
+<img src="_image/gestionaddcapteur2.png" alt="ajouter" width="auto">
 
 Il existe de nombreux noms de paramètres comme "sat, adc1, io21 ..." etc. Donc, si vous voulez créer un événement pour le paramètre "sat", vous devez saisir sat dans le champ du nom du paramètre. Ceci associera l'événement avec le paramètre.
 
@@ -17,7 +17,7 @@ Il existe de nombreux noms de paramètres comme "sat, adc1, io21 ..." etc. Donc,
 
 >## ACC ON / OFF
 
-<img src="_image/acconoff.png" alt="ajouter" width="580px">
+<img src="_image/acconoff.png" alt="ajouter" width="auto">
 
 * ***Nom du capteur*** - dans ce champ, vous pouvez écrire le nom de votre choix. Ce nom apparaîtra comme nom de capteur dans le panneau de détails de l'objet lorsque vous cliquez sur l'objet.
 * ***Type de capteur*** - c'est le type de capteur, chaque type de capteur a des options d'entrée de paramètres et un comportement différents.
@@ -28,12 +28,12 @@ Il existe de nombreux noms de paramètres comme "sat, adc1, io21 ..." etc. Donc,
 * ***Setflag*** - est utilisé pour détecter un ou plusieurs caractères de la valeur du paramètre. Exemple: **12345** est la valeur du paramètre et **"34"** est la valeur que vous souhaitez utiliser, donc setflag serait: **3** (caractère de départ), **2** (nombre de caractères), **34** (valeur du paramètre) ".
 
 
-<img src="_image/acconoff2.png" alt="ajouter" width="580px">
+<img src="_image/acconoff2.png" alt="ajouter" width="auto">
 
 
 >## Battérie
 
-<img src="_image/baterieadd.png" alt="ajouter" width="580px">
+<img src="_image/baterieadd.png" alt="ajouter" width="auto">
 
 * ***Nom du capteur***  - dans ce champ, vous pouvez écrire le nom de votre choix. Ce nom apparaîtra comme nom de capteur dans le panneau de détails de l'objet lorsque vous cliquez sur l'objet.
 * ***Type de capteur***  - c'est le type de capteur, chaque type de capteur a des options d'entrée de paramètres et un comportement différents.
@@ -48,7 +48,7 @@ Il existe de nombreux noms de paramètres comme "sat, adc1, io21 ..." etc. Donc,
 
 >## Ouverture / fermeture des portes
 
-<img src="_image/openclosedoors.png" alt="ajouter" width="580px">
+<img src="_image/openclosedoors.png" alt="ajouter" width="auto">
 
 * ***Nom du capteur***  - dans ce champ, vous pouvez écrire le nom de votre choix. Ce nom apparaîtra comme nom de capteur dans le panneau de détails de l'objet lorsque vous cliquez sur l'objet.
 * ***Type de capteur***  - c'est le type de capteur, chaque type de capteur a des options d'entrée de paramètres et un comportement différents.
@@ -59,7 +59,7 @@ Il existe de nombreux noms de paramètres comme "sat, adc1, io21 ..." etc. Donc,
 
 >## Marche / arrêt du moteur
 
-<img src="_image/marchearret.png" alt="marchearret" width="580px">
+<img src="_image/marchearret.png" alt="marchearret" width="auto">
 
 * ***Nom du capteur***  - dans ce champ, vous pouvez écrire le nom de votre choix. Ce nom apparaîtra comme nom de capteur dans le panneau de détails de l'objet lorsque vous cliquez sur l'objet.
 * ***Type de capteur***  - c'est le type de capteur, chaque type de capteur a des options d'entrée de paramètres et un comportement différents.
@@ -71,7 +71,7 @@ Il existe de nombreux noms de paramètres comme "sat, adc1, io21 ..." etc. Donc,
 
 >## Heures moteur
 
-<img src="_image/heuremoteur.png" alt="heuremoteur" width="580px">
+<img src="_image/heuremoteur.png" alt="heuremoteur" width="auto">
 
 * ***Nom du capteur***  - dans ce champ, vous pouvez écrire le nom de votre choix. Ce nom apparaîtra comme nom de capteur dans le panneau de détails de l'objet lorsque vous cliquez sur l'objet.
 * ***Type de capteur***  - c'est le type de capteur, chaque type de capteur a des options d'entrée de paramètres et un comportement différents.
@@ -80,7 +80,7 @@ Il existe de nombreux noms de paramètres comme "sat, adc1, io21 ..." etc. Donc,
 
 >## Réservoir d'essence
 
-<img src="_image/reservoirdessence.png" alt="reservoirdessence" width="580px">
+<img src="_image/reservoirdessence.png" alt="reservoirdessence" width="auto">
 
 * ***Nom du capteur***  - dans ce champ, vous pouvez écrire le nom de votre choix. Ce nom apparaîtra comme nom de capteur dans le panneau de détails de l'objet lorsque vous cliquez sur l'objet.
 * ***Type de capteur***  - c'est le type de capteur, chaque type de capteur a des options d'entrée de paramètres et un comportement différents.
@@ -92,7 +92,7 @@ Il existe de nombreux noms de paramètres comme "sat, adc1, io21 ..." etc. Donc,
 
 >## Réservoir de carburant avec étalonnage
 
-<img src="_image/reservoiretalonnage.png" alt="reservoiretalonnage" width="580px">
+<img src="_image/reservoiretalonnage.png" alt="reservoiretalonnage" width="auto">
 
 * ***Nom du capteur***  - dans ce champ, vous pouvez écrire le nom de votre choix. Ce nom apparaîtra comme nom de capteur dans le panneau de détails de l'objet lorsque vous cliquez sur l'objet.
 * ***Type de capteur***  - c'est le type de capteur, chaque type de capteur a des options d'entrée de paramètres et un comportement différents.
@@ -104,7 +104,7 @@ Il existe de nombreux noms de paramètres comme "sat, adc1, io21 ..." etc. Donc,
 
 >## GSM
 
-<img src="_image/gsm.png" alt="gsm" width="580px">
+<img src="_image/gsm.png" alt="gsm" width="auto">
 
 * ***Nom du capteur***  - dans ce champ, vous pouvez écrire le nom de votre choix. Ce nom apparaîtra comme nom de capteur dans le panneau de détails de l'objet lorsque vous cliquez sur l'objet.
 * ***Type de capteur*** - c'est le type de capteur, chaque type de capteur a des options d'entrée de paramètres et un comportement différents.
@@ -114,7 +114,7 @@ Il existe de nombreux noms de paramètres comme "sat, adc1, io21 ..." etc. Donc,
 
 >## Accélération brutale et freinage brutal
 
-<img src="_image/accelerationbrutale.png" alt="accelerationbrutale" width="580px">
+<img src="_image/accelerationbrutale.png" alt="accelerationbrutale" width="auto">
 
 * ***Nom du capteur***  - dans ce champ, vous pouvez écrire le nom de votre choix. Ce nom apparaîtra comme nom de capteur dans le panneau de détails de l'objet lorsque vous cliquez sur l'objet.
 * ***Type de capteur***  - c'est le type de capteur, chaque type de capteur a des options d'entrée de paramètres et un comportement différents.
@@ -124,7 +124,7 @@ Il existe de nombreux noms de paramètres comme "sat, adc1, io21 ..." etc. Donc,
 
 >## Allumage ON / OFF
 
-<img src="_image/allumage.png" alt="allumage" width="580px">
+<img src="_image/allumage.png" alt="allumage" width="auto">
 
 * ***Nom du capteur***  - dans ce champ, vous pouvez écrire le nom de votre choix. Ce nom apparaîtra comme nom de capteur dans le panneau de détails de l'objet lorsque vous cliquez sur l'objet.
 * ***Type de capteur***  - c'est le type de capteur, chaque type de capteur a des options d'entrée de paramètres et un comportement différents.
@@ -135,8 +135,8 @@ Il existe de nombreux noms de paramètres comme "sat, adc1, io21 ..." etc. Donc,
 
 >## Odomètre (connecté et virtuel)
 
-<img src="_image/odometre.png" alt="odometre" width="580px">
-<img src="_image/odometre2.png" alt="odometre2" width="580px">
+<img src="_image/odometre.png" alt="odometre" width="auto">
+<img src="_image/odometre2.png" alt="odometre2" width="auto">
 
 * ***Nom du capteur***  - dans ce champ, vous pouvez écrire le nom de votre choix. Ce nom apparaîtra comme nom de capteur dans le panneau de détails de l'objet lorsque vous cliquez sur l'objet.
 * ***Type de capteur***  - c'est le type de capteur, chaque type de capteur a des options d'entrée de paramètres et un comportement différents.
@@ -148,7 +148,7 @@ Il existe de nombreux noms de paramètres comme "sat, adc1, io21 ..." etc. Donc,
 
 >## Satellites
 
-<img src="_image/satellite.png" alt="satellite" width="580px">
+<img src="_image/satellite.png" alt="satellite" width="auto">
 
 * ***Nom du capteur***  - dans ce champ, vous pouvez écrire le nom de votre choix. Ce nom apparaîtra comme nom de capteur dans le panneau de détails de l'objet lorsque vous cliquez sur l'objet.
 * ***Type de capteur***  - c'est le type de capteur, chaque type de capteur a des options d'entrée de paramètres et un comportement différents.
@@ -157,7 +157,7 @@ Il existe de nombreux noms de paramètres comme "sat, adc1, io21 ..." etc. Donc,
 
 >## Tachymètre / RPM ou température
 
-<img src="_image/tachometre.png" alt="tachometre" width="580px">
+<img src="_image/tachometre.png" alt="tachometre" width="auto">
 
 * ***Nom du capteur***  - dans ce champ, vous pouvez écrire le nom de votre choix. Ce nom apparaîtra comme nom de capteur dans le panneau de détails de l'objet lorsque vous cliquez sur l'objet.
 * ***Type de capteur***  - c'est le type de capteur, chaque type de capteur a des options d'entrée de paramètres et un comportement différents.

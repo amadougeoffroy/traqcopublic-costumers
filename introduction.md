@@ -54,7 +54,7 @@ Pour avoir accès à la plateforme, veuillez saisir l'un des liens suivants dans
   
   ***TROQCO Public :*** http://public.traqco.net/
   
-<img src="_image/publiconnect.PNG" alt="logo" width="450">
+<img src="_image/publiconnect.PNG" alt="logo" width="auto">
   </div>
 </div>
 
