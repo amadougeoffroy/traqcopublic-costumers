@@ -40,7 +40,7 @@ Pour utiliser la plateforme TRAQCO PUBLIC, il vous faut un minimum de connaissan
 * ***Dispositif :*** Le ou les périphériques de suivi GPS que vous utilisez avec TRAQCO PUBLIC.
 
 * ***Véhicule :*** Un véhicule ici est tout simplement un périphérique qui a été inscrit sur la plateforme TRAQCO PUBLIC.
-Vous pouvez bien sûr suivre n'importe quoi, mais pour les besoins de ce manuel, nous utilisons le terme véhicule, ou simplement appareil.
+Vous pouvez bien sûr le nommer comme vous voulez, mais pour les besoins de ce manuel, nous utilisons le terme véhicule, ou simplement appareil.
 
 * ***Application :*** C'est la matérialisation de votre flotte (véhicules équipés de traceurs GPS) dans TRAQCO PUBLIC.
 
@@ -52,14 +52,14 @@ Pour avoir accès à la plateforme, veuillez saisir l'un des liens suivants dans
 
   <div class="col-md">
   
-  ***TROQCO Public :*** http://public.traqco.net/
+  ***TRAQCO Public :*** http://public.traqco.net/
   
 <img src="_image/publiconnect.PNG" alt="logo" width="auto">
   </div>
 </div>
 
-Ce manuel couvre à la fois les fonctionnalités propres à un opérateur et celles propres à un administrateur.
-En tant qu'administrateur, vous pouvez gérer les opérateurs, les règles d'événements, etc.  
+Ce manuel couvre à la fois les fonctionnalités propres à un opérateur et celles propres à un Administrateur.
+En tant qu'Administrateur, vous pouvez gérer les opérateurs, les règles d'événements, etc.  
 
 
 
