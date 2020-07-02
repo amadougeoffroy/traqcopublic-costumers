@@ -2,16 +2,10 @@
   - [Introduction](introduction.md)
   - [Espace de travail](espace-de-travail.md)
   - [Compte utilisateur](compte-utilisateurs.md)
-  - [Gestion des traceurs](gestion-manuelle-traceurs.md)
-  - [Gestion des capteurs](gestion-des-capteurs.md)
-  - [Gestion des appareils](gestion-des-appareils.md)
   - [Gestion des outils](gestion-des-outils.md)
   - [Objets graphiques](objets-graphiques.md)
   - [Edition de rapports](edition-de-rapports.md)
-  - [Gestion des extensions](gestion-des-extensions.md)
-  - [Panneau d'administration](panneau-administration.md)
-  - [Paramètres généraux](parametres-generaux.md)
-
+  
 - Langues
   - [:fr: Français](/)
   - [:uk: English](/en/)

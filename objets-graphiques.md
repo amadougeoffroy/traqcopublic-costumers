@@ -1,4 +1,4 @@
->## Ajout/Suppression
+>## Activer / Désactiver
 
 Vous pouvez modifier les widgets que vous souhaitez voir sur votre carte principale à l'aide de la [configuration](parametrage-des-traceurs.md?id=fenêtre-de-configuration) .
 
@@ -49,7 +49,7 @@ Affiche des informations plus détaillées sur l'emplacement des objets, telles 
 <img src="_image/emplacement.png" alt="emplacement" width="auto">
 
 
->## Appareil photo de l'appareil
+>## Appareil photo du tracker
 
 Affiche la dernière photo prise par le tracker GPS avec une caméra IP intégrée ou connectée.
 
