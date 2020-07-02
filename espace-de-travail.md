@@ -15,7 +15,7 @@ Une fois connecté, vous serez redirigé vers la page principale de la plateform
 <div class="row" style="text-align:left">
   <div class="col-md">
 
-Le menu est utilisé pour accéder rapidement aux outils et paramètres fréquemment utilisés. Vous pouvez également facilement changer votre langue en cliquant sur le drapeau dans le coin supérieur droit. Veuillez consulter les pages de manuel d'utilisation distinctes pour Outils , Configuration et Mon compte .
+Le menu est utilisé pour accéder rapidement aux outils et paramètres fréquemment utilisés. Vous pouvez également changer votre langue en cliquant sur le drapeau dans le coin supérieur droit. Veuillez consulter les pages de manuel d'utilisation distinctes pour Outils , Configuration et Mon compte .
 
    </div>
    <div class="col-md">
