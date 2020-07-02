@@ -3,7 +3,7 @@
 
 # TRAQCO PUBLIC <small>1.0.0</small>
 
-> Original and complete documentation.
+> Reserved for customers.
 
 - Rich and explanatory 
 - For quick and easy handling

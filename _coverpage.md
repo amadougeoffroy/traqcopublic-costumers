@@ -3,7 +3,7 @@
 
 # TRAQCO PUBLIC <small>1.0.0</small>
 
-> Documentation originale et complete.
+> Documentation réservée aux clients.
 
 - Riche et explicative 
 - Pour une prise en main rapide et aisée
