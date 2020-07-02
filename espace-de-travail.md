@@ -40,7 +40,7 @@ Le menu est utilisé pour accéder rapidement aux outils et paramètres fréquem
 <img src="_image/pannavigate.png" alt="dashbord" width="auto">
 
 1. ***Onglet Objets*** - afficher et gérer tous les appareils
-2. ***Onglet Événements*** - l'historique des événements et les alertes / notifications peuvent être consultés 
+2. ***Onglet Événements*** - l'historique des événements et les alertes / notifications peuvent être consultées 
 (survitesse, alerte de barrière géographique, batterie faible, etc.)
 3. ***Onglet Historique*** - affichez l'historique détaillé de chaque appareil GPS, des graphiques, un journal de données
 4. ***Recherche*** - trouver des appareils par nom ou imei
@@ -63,7 +63,7 @@ Le menu est utilisé pour accéder rapidement aux outils et paramètres fréquem
 
 Ce panneau vous permet de voir plus d'informations sur l'objet. Il apparaît lorsque vous sélectionnez votre objet. Il y a 2 options: afficher moins (standard) et afficher plus.
 
-En afficher moins de popup, vous verrez l'adresse, la durée d'arrêt, les capteurs. En afficher plus de popup, vous verrez des informations supplémentaires comme les services, le protocole, etc.
+En affichant moins de popup, vous verrez l'adresse, la durée d'arrêt, les capteurs. En affichant plus de popup, vous verrez des informations supplémentaires comme les services, le protocole, etc.
 
  </div>
    <div class="col-md-7">

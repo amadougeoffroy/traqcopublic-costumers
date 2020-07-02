@@ -21,7 +21,7 @@ Il est également possible d'utiliser "*l'aperçu de la rue*" tout en surveillan
 
 <img src="_image/mainedit.png" alt="mainedit" width="auto">
 
-Pour ajouter un appareil, tout est requis: nom et nom de l'appareil ou identifiant. Vous pouvez modifier le nom et imei naytime.
+Pour ajouter un appareil, tout est requis: nom et nom de l'appareil ou identifiant. Vous pouvez modifier le nom et imei à tout moment.
 
 >## Modifier - Icônes
 
