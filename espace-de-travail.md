@@ -91,7 +91,7 @@ En affichant moins de popup, vous verrez l'adresse, la durée d'arrêt, les capt
 </div>
    <div class="col-md">
 
-   <img src="_image/detailspanobj.png" alt="dashbord" width="auto">
+   <img src="_image/controlecard.png" alt="controlecard" width="auto">
 
  </div>
 </div>
