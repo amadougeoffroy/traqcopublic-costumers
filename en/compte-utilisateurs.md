@@ -1,6 +1,6 @@
 >## Membership
 
- How to subscribe to africa connect...?
+ To subscribe to a fleet management offer at [Africa Connect](http://www.africa-connect.net/), please visit our website or visit our premises for more information.
 
 >## My icons
 
@@ -13,6 +13,9 @@ To change your password, click change password and you will be redirected to the
 >## Support
 
 If you have any dificulties connecting your device or have questions, please contact our support team.
+
+* Website: [www.africa-connect.net](http://www.africa-connect.net/)
+* Email: [support@africa-connect.net](mailto:support@africa-connect.net)
 
 >## Log out
 
